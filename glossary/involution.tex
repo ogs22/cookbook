@@ -1,1 +1,0 @@
-The process of raising a number to a given power.

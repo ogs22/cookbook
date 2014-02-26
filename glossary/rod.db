@@ -1,1 +1,0 @@
-A long thin rigid body.

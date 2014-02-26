@@ -1,7 +1,15 @@
 <?php
 
 define("PATH", "/Users/ogs22/CMEP/cookbook/glossary/");
-require_once 'markdownify/markdownify.php';
+
+function mkazdir() {
+    foreach (range('a', 'z') as $letter) {
+        if (!file_exists(PATH.$letter)) {
+            mkdir(PATH.$letter);
+        }
+    }
+    mkdir(PATH."other");
+}
 
 function cleanup($data='') {
     $config = array(
@@ -27,12 +35,6 @@ function cleanup($data='') {
     $string = $body->value;
     $string = str_replace("<body>", "", $string);
     $string = str_replace("</body>", "", $string);
-    return trim($string);
-}
-
-function md($content) {
-    $md = new Markdownify;
-    $string = $md->parseString(trim($content));
     return trim($string);
 }
 
@@ -67,6 +69,16 @@ function makeName($title) {
     return $name;
 }
 
+
+function getDirAlpha($name) {
+    $fl = $name[0];
+    if (preg_match('/[a-z]/', $fl) == 1) {
+        return $fl;
+    } else {
+        return "other";
+    }
+}
+
 function checkDupe(&$name,$depth=1) {
     if (file_exists(PATH.$name.".md")) {
         $name = $name."I";
@@ -76,16 +88,12 @@ function checkDupe(&$name,$depth=1) {
 
 
 $link = mysqli_connect("localhost","root","tyuhbvcf","thes3") or die("Error " . mysqli_error($link));
-// $query = 'select definitions.concept_no,name,definition from names
-// join definitions on definitions.concept_no = names.concept_no 
-// where definitions.langcode = "gb" and names.langcode = "gb" group by definitions.concept_no' or die("Error" . mysqli_error($link));
-
 $query = 'select names.name,names.concept_no,source from entries join names where names.concept_no=entries.concept_no and lang = "en" group by names.concept_no' or die("Error" . mysqli_error($link));
-
 $result = $link->query($query);
 
 echo mysqli_num_rows($result);
 
+mkazdir();
 
 while($row = mysqli_fetch_assoc($result)) {
   
@@ -97,13 +105,14 @@ while($row = mysqli_fetch_assoc($result)) {
     echo $row['name']."::";
     echo $row['concept_no']."::";
     echo $name.".md\n";
+    $dir = getDirAlpha($name)."/";
 //    file_put_contents(PATH.$name.".md", $md);
-    file_put_contents(PATH.$name.".db", $row['source']);
-    file_put_contents(PATH.$name.".tex", $def);
+    file_put_contents(PATH.$dir.$name.".db", $row['source']);
+    file_put_contents(PATH.$dir.$name.".tex", $def);
     //file_put_contents(PATH.$name.".html", $clean);
 
-    pdmd($name);
-    pdhtml($name); 
+    pdmd($dir.$name);
+    pdhtml($dir.$name); 
 
 } 
 

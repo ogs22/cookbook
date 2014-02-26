@@ -1,3 +1,0 @@
-A millionth of a metre, i.e. a thousandth of a millimetre.
-
-(But note that micrometer means something else)
