@@ -90,6 +90,7 @@ while($row = mysqli_fetch_assoc($result)) {
     echo $row['concept_no']."::";
     echo $name.".md\n";
 //    file_put_contents(PATH.$name.".md", $md);
+    file_put_contents(PATH.$name.".db", $row['definition']);
     file_put_contents(PATH.$name.".html", $clean);
     pdmd($name);
 
