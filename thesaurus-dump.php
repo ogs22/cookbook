@@ -1,6 +1,6 @@
 <?php
 
-define("PATH", "/Users/ogs22/gloss/");
+define("PATH", "/Users/ogs22/CMEP/cookbook/glossary/");
 require_once 'markdownify/markdownify.php';
 
 function cleanup($data='') {
@@ -70,7 +70,7 @@ function checkDupe(&$name,$depth=1) {
 }
 
 
-$link = mysqli_connect("localhost","root","tyuhbvcf","thesaurus") or die("Error " . mysqli_error($link));
+$link = mysqli_connect("localhost","root","tyuhbvcf","thes2") or die("Error " . mysqli_error($link));
 $query = 'select definitions.concept_no,name,definition from names
 join definitions on definitions.concept_no = names.concept_no 
 where definitions.langcode = "gb" and names.langcode = "gb" group by definitions.concept_no' or die("Error" . mysqli_error($link));
