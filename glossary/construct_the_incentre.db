@@ -1,0 +1,5 @@
+To construct the incentre of a given triangle:
+\par
+Construct the angle bisectors of two pairs of the triangle's sides;
+\par
+The intersection of these two bisectors is the incentre.

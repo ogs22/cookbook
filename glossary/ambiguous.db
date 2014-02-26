@@ -1,0 +1,11 @@
+Something is ambiguous if it is not clear exactly what it means.
+For instance:
+\par
+'Do not think killing the king is good' could mean either:
+\par
+'Do not think that it is good to kill the king'
+\par
+Or: 'Don't worry about it; killing the king is a good idea'.
+\par
+In mathematics we try to avoid ambiguity as much as possible, 
+and use special notation, signs and symbols to make things clear.

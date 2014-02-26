@@ -1,0 +1,12 @@
+A polynomial expression is an expression in which we have 
+whole-numbered powers of the variable multiplied by
+numerical coefficients, and added together. The powers of the variable must be
+positive integers, or zero.
+\par
+eg: $$
+\begin{array}{l}
+3x^{2}$  + 2x + 1\\
+x^{11}$  + 2x\\
+a_{0} + a_{1}x + a_{2}x^{2} + a_{3}x^{3} + \dots + a_{n}x^{n}
+\end{array}
+$$

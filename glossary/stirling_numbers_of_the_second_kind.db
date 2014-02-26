@@ -1,0 +1,29 @@
+If we have a set of n elements, and we want to partition it into
+k subsets each with at least one element, the number of ways to do this
+is called the Stirling number of the second kind, 
+$ \mathrm{S}_{\mathrm{n}} ^{( \mathrm{k} ) } $ or 
+$ \left \{ 
+\begin{array}{c} 
+  \mathrm{n} \\
+  \mathrm{k}
+\end{array} 
+\right \} . $
+\par
+For example if we have the set {1,2,3,4} we can partition it into 
+two subsets in the following ways:
+\par
+{{1},{2,3,4}}
+\par
+{{2},{1,3,4}}
+\par
+{{3},{1,2,4}}
+\par
+{{4},{1,2,3}}
+\par
+{{1,2},{3,4}}
+\par
+{{1,3},{2,4}}
+\par
+{{1,4},{2,3}}
+\par
+So $ \mathrm{S}_4 ^{(2)} = 7 . $

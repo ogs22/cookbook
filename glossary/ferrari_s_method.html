@@ -1,0 +1,29 @@
+<p>This is the method for solving any quartic equation.</p>
+<p>Say we have:</p>
+<p><span class="math"><em>a</em><em>x</em><sup>4</sup> + <em>b</em><em>x</em><sup>3</sup> + <em>c</em><em>x</em><sup>2</sup> + <em>d</em><em>x</em> + <em>e</em> = 0.</span></p>
+<p>Divide by a, to rewrite this as: <br /><span class="math"><em>x</em><sup>4</sup> + <em>f</em><em>x</em><sup>3</sup> + <em>g</em><em>x</em><sup>2</sup> + <em>h</em><em>x</em> + <em>j</em> = 0.</span><br /> Put <span class="math"><em>y</em> = <em>x</em> + <em>f</em>/4, <em>s</em><em>o</em><em>x</em> = <em>y</em> − <em>f</em>/4</span>, so</p>
+<p><br /><span class="math">$$\begin{aligned}
+  x^{4}&amp;=&amp;y^{4}-f^{3}y+3f^{2}y^{2}/8-f^{3}y/16+f^{4}/256 \\
+  x^{3}&amp;=&amp;y^{3}-3y^{2}f/4+3yf^{2}/16-f^{3}/64 \\
+  x^{2}&amp;=&amp;y^{2}-2yf/4+f^{2}/16\end{aligned}$$</span><br /></p>
+<p>so <span class="math"><em>x</em><sup>4</sup> + <em>f</em><em>x</em><sup>3</sup> + <em>g</em><em>x</em><sup>2</sup> + <em>h</em><em>x</em> + <em>j</em> = <em>y</em><sup>4</sup> − <em>f</em><em>y</em><sup>3</sup> + 3<em>f</em><sup>2</sup>/<em>y</em><sup>2</sup>/8</span> <span class="math"> − <em>f</em><sup>3</sup><em>y</em>/16 + <em>f</em><sup>4</sup>/256 + <em>f</em><em>y</em><sup>3</sup> − 3<em>y</em><sup>2</sup><em>f</em><sup>2</sup>/4 + 3<em>y</em><em>f</em><sup>3</sup>/16 − <em>f</em><sup>4</sup>/64</span> <span class="math"> + <em>g</em><em>y</em><sup>2</sup> − <em>g</em><em>y</em><em>f</em>/2 + <em>g</em><em>f</em><sup>2</sup>/16 + <em>h</em><em>y</em> − <em>h</em><em>f</em>/4 + <em>j</em></span></p>
+<p><span class="math"> = <em>y</em><sup>4</sup> + <em>y</em><sup>3</sup>( − <em>f</em> + <em>f</em>)</span> <span class="math"><em>y</em><sup>2</sup>(3<em>f</em><sup>2</sup>/8) − 3<sup>2</sup>/4 + 4)</span> <span class="math"> + <em>y</em>( − <em>f</em><sup>3</sup>/16 + 3<em>f</em><sup>3</sup>/16 − <em>g</em><em>f</em>/2 + <em>h</em>)</span> <span class="math"> + (<em>f</em><sup>4</sup>/256 − <em>f</em><sup>4</sup>/64 + <em>g</em><em>f</em><sup>2</sup>/16 − <em>h</em><em>f</em>/4 + <em>j</em>)</span></p>
+<p>So we can rewrite the original equation as:</p>
+<p><span class="math"><em>y</em><sup>4</sup> + <em>p</em><em>y</em><sup>2</sup> + <em>q</em><em>y</em> + <em>r</em> = 0</span></p>
+<p>with <span class="math"><em>p</em> =  − 3<em>f</em><sup>2</sup>/8 + <em>g</em>, </span></p>
+<p><span class="math"><em>q</em> = <em>f</em><sup>3</sup>/8 − <em>g</em><em>f</em>/2 + <em>h</em>, </span></p>
+<p><span class="math"><em>r</em> =  − 3<em>f</em><sup>4</sup>/256 + <em>g</em><em>f</em><sup>2</sup>/16 − <em>h</em><em>f</em>/4 + <em>j</em>.</span> Now, we can write:</p>
+<p><span class="math"><em>y</em><sup>4</sup> + <em>p</em><em>y</em><sup>2</sup> =  − <em>q</em><em>y</em> − <em>r</em></span></p>
+<p><span class="math"><em>y</em><sup>4</sup> + 2<em>p</em><em>y</em><sup>2</sup> + <em>p</em><sup>2</sup> = <em>p</em><em>y</em><sup>2</sup> − <em>q</em><em>y</em> − <em>r</em> + <em>p</em><sup>2</sup></span></p>
+<p><span class="math">(<em>y</em><sup>2</sup> + <em>p</em>)<sup>2</sup> = <em>p</em><em>y</em><sup>2</sup> − <em>q</em><em>y</em> − <em>r</em> + <em>p</em><sup>2</sup>.</span></p>
+<p>Now, for any z,</p>
+<p><span class="math">(<em>y</em><sup>2</sup> + <em>p</em> + <em>z</em>)<sup>2</sup> = ((<em>y</em><sup>2</sup> + <em>p</em>) + <em>z</em>)<sup>2</sup></span></p>
+<p><span class="math"> = (<em>y</em><sup>2</sup> + <em>p</em>)<sup>2</sup> + 2(<em>y</em><sup>2</sup> + <em>p</em>)<em>z</em> + <em>z</em><sup>2</sup></span></p>
+<p><span class="math"> = <em>p</em><em>y</em><sup>2</sup> − <em>q</em><em>y</em> − <em>r</em> + <em>p</em><sup>2</sup> + 2<em>z</em>(<em>y</em><sup>2</sup> + <em>p</em>) + <em>z</em><sup>2</sup></span></p>
+<p><span class="math"> = (<em>p</em> + 2<em>z</em>)<em>y</em><sup>2</sup> − <em>q</em><em>y</em> + (<em>p</em><sup>2</sup> − <em>r</em> + 2<em>p</em><em>z</em> + <em>z</em><sup>2</sup>)</span> (*)</p>
+<p>The right hand side of (*) is a quadratic in <span class="math"><em>y</em></span>; and we can choose <span class="math"><em>z</em></span> so that it is a perfect square, i.e. so that the discriminant is zero, ie:</p>
+<p><span class="math">( − <em>q</em>)<sup>2</sup> − 4(<em>p</em> + 2<em>z</em>)(<em>p</em><sup>2</sup> − <em>r</em> + 2<em>p</em><em>z</em> + <em>z</em><sup>2</sup>) = 0.</span></p>
+<p>We can rewrite this as <span class="math">(<em>q</em><sup>2</sup> − 4<em>p</em><sup>3</sup> + 4<em>p</em><em>r</em>) + ( − 16<em>p</em><sup>2</sup> + 8<em>r</em>)<em>z</em> − 20<em>p</em><em>z</em><sup>2</sup> − 8<em>z</em><sup>3</sup> = 0.</span></p>
+<p>This is a cubic equation in <span class="math"><em>z</em></span>. So we can solve it for <span class="math"><em>z</em></span> using the cubic equation formula (Cardano’s method).</p>
+<p>When we have solved this to find a value for <span class="math"><em>z</em></span>, we can substitute in this value of <span class="math"><em>z</em></span> to (*). This makes the right hand side of (*) a perfect square, so we can take the square root of both sides of (*). (*) is then a quadratic equation in <span class="math"><em>y</em></span>, which we can solve using the quadratic solution formula. The values of <span class="math"><em>y</em></span> will easily give us values of <span class="math"><em>x</em></span>, i.e. solutions of the original equation.</p>
+<p>There can be 0, 1, 2, 3, or 4 solutions.</p>

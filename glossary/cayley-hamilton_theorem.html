@@ -1,0 +1,58 @@
+<p>Every square matrix satisfies its own characteristic equation.</p>
+<p>ie: if A is a square matrix</p>
+<p>and <span class="math">∣xI - A∣ = f(x), </span></p>
+<p>(so f(x) is the characteristic polynomial of A, and f(x)=0 is the characteristic equation of A),</p>
+<p>then the Cayley-Hamilton theorem says that f(A) = 0.</p>
+<p>eg: Let <span class="math">$ \mathrm{A} = 
+\left( \begin{array}{cc} 
+  1 &amp; 3 \\ 
+  4 &amp; 5
+\end{array}
+\right) $</span>, then</p>
+<p><span class="math">f(x) = ∣xI - A∣</span> <br /><span class="math">$$= 
+\left| 
+\begin{array}{ccc}
+( \mathrm{x} -1) &amp; 3 \ 4 &amp; ( \mathrm{x} -5) 
+\end{array}
+\right|$$</span><br /> <br /><span class="math"> = (x-1)(x-5) - 12</span><br /> <br /><span class="math"> = x<sup>2</sup> − 6x − 7</span><br /></p>
+<p>Then, working in matrices rather than ordinary numbers (so we have 7.I instead of 7), <span class="math">$ \mathrm{f(A)} 
+= \left( 
+\begin{array}{cc}
+  1 &amp; 3 \\
+  4 &amp; 5
+\end{array} 
+\right) ^2 - 6 
+\left( 
+\begin{array}{cc}
+  1 &amp; 3 \\
+  4 &amp; 5 
+\end{array} 
+\right) - 
+\left(
+\begin{array}{cc}
+  7 &amp; 0 \\
+  0 &amp; 7 
+\end{array} 
+\right) $</span> <br /><span class="math">$$= \left( 
+\begin{array}{cc}
+  13 &amp; 18 \\
+  24 &amp; 37 
+\end{array} 
+\right) 
+- \left( 
+\begin{array}{cc} 
+  6 &amp; 18 \\
+  24 &amp; 30 
+\end{array} 
+\right) 
+- \left( 
+\begin{array}{cc}
+  7 &amp; 0 \\
+  0 &amp; 7 
+\end{array} 
+\right)$$</span><br /> <br /><span class="math">$$= \left( 
+\begin{array}{cc}
+  0 &amp; 0 \\
+  0 &amp; 0 
+\end{array}
+\right )$$</span><br /></p>

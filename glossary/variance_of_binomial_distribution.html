@@ -1,0 +1,13 @@
+<p>For independent random variables <span class="math"><em>X</em></span> and <span class="math"><em>Y</em></span>, the property <span class="math">var(<em>X</em> + <em>Y</em>) = var(<em>X</em>) + var(<em>Y</em>)</span> holds true.</p>
+<p><span class="math"><em>X</em></span> is binomially distributed if <span class="math"><em>X</em> = ∑<sub><em>r</em> = 0</sub><sup><em>n</em></sup><em>X</em><sub><em>r</em></sub></span> and each <span class="math"><em>X</em><sub><em>r</em></sub></span> is either <span class="math">1</span> or <span class="math">0</span> depending on the success or failure of <span class="math"><em>n</em></span> independent Bernouilli trials. If the probability of success is <span class="math"><em>p</em></span>, it follows that: <br /><span class="math">var(<em>X</em><sub><em>r</em></sub>) = <em>p</em> − <em>p</em><sup>2</sup> = <em>p</em>(1 − <em>p</em>)</span><br /> Since the <span class="math"><em>X</em><sub><em>r</em></sub></span> are independent, we can conclude: <br /><span class="math">var(<em>X</em>) = <em>n</em><em>p</em>(1 − <em>p</em>).</span><br /></p>
+<p>Alternatively, using the notation <span class="math">⟨<em>X</em>⟩</span> to indicate the expectation of the random variable <span class="math"><em>X</em></span>, we have <span class="math">⟨<em>X</em>⟩ = <em>n</em><em>p</em></span> if <span class="math"><em>X</em></span> is binomially distributed with parameters <span class="math"><em>n</em></span> and <span class="math"><em>p</em></span>. And:</p>
+<p><br /><span class="math">$$\begin{aligned}
+\langle X ^2 \rangle &amp;=&amp; \sum_{r=0} ^{n} r^2 p_{r} \\
+&amp;=&amp; \sum_{r=0}^{n} r(r-1) {n \choose r} p^{r} (1-p)^{n-r} + \sum _{r=0}^{n} r {n \choose r} p ^{r} (1-p)^{n-r} \\
+&amp;=&amp; n(n-1)p ^2 + np\\
+\mbox{So,} var(X) &amp;=&amp; \langle X ^2 \rangle 
+- \langle X \rangle ^2 \\
+&amp;=&amp; n(n-1)p ^2 + np - n^2 p^2 \\
+&amp;=&amp; n^2 p^2 - np^2 + np - n^2 p^2  \\
+&amp;=&amp; np - np^2 \\
+&amp;=&amp; np(1-p)\end{aligned}$$</span><br /></p>

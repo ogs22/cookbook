@@ -1,0 +1,19 @@
+A set F with two commutative and associative operations, 
++ and \ensuremath{ \times ,} such that:
+\par
+1)if a and b are in F then a+b and \ensuremath{a \times b} are in F;
+\par
+2)+ has an identity, 0, and \ensuremath{ \times } has an identity, 1, and
+these are not the same;
+\par
+3)every element has an inverse under +, and every element but
+0 has an inverse under \ensuremath{ \times ;}
+\par
+\ensuremath{4) \times } is distributive over +.
+\par
+ $ \mathbb {Q,R,C} $ are all fields with the operations of addition 
+and multiplication.
+\par
+The definition can also be written: F is a commutative group under 
+addition; F/{0} is a commutative group under multiplication; 
+multiplication is distributive over addition.

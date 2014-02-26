@@ -1,0 +1,10 @@
+Given a group G and a subgroup H of G, H is called a normal subgroup of
+G if:
+\par
+H is made up of whole conjugacy classes;
+\par
+or: $gHg^{-1}=H$  for all g in G;
+\par
+or: gH=Hg for all g in G.
+\par
+These three conditions are equivalent.

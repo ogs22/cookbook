@@ -1,0 +1,7 @@
+Two permutations A and B of a set X are called disjoint if
+each element of X is either unchanged by A, or unchanged by B.
+\par
+Note that this implies AB=BA.
+\par
+For example, {0,1,2,3}->{1,0,2,3} and {0,1,2,3}->{0,1,3,2} are 
+disjoint.

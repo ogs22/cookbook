@@ -1,0 +1,7 @@
+<p>A method for the numerical solution of first order differential equations: given equation <span class="math">$ \frac{dy}{dx} = f(x,y) $</span> and a starting point <span class="math"><em>x</em><sub>0</sub>, <em>y</em><sub>0</sub></span>, values of <span class="math"><em>y</em><sub><em>i</em> + 1</sub></span> for <span class="math"><em>x</em><sub><em>i</em></sub> = <em>x</em><sub><em>i</em></sub> + <em>h</em></span> are given approximately by <span class="math"><em>y</em><sub><em>i</em> + 1</sub> = <em>y</em><sub><em>i</em></sub> + (<em>k</em><sub>1</sub> + 2<em>k</em><sub>2</sub> + 2<em>k</em><sub>3</sub> + <em>k</em><sub>4</sub>), </span> where</p>
+<p><br /><span class="math">$$\begin{aligned}
+  k_{1}&amp;=&amp;hf(x_{i}, y_{i})\\, 
+  k_{2}&amp;=&amp;hf(x_{i}+h/2, y_{i}+k_{1}/2),\\
+  k_{3}&amp;=&amp;hf(x_{i}+h/2, y_{i}+k_{2}/2),\\ 
+  k_{4}&amp;=&amp;hf(x_{i}+h, y_{i}+k_{3}).
+  \end{aligned}$$</span><br /></p>

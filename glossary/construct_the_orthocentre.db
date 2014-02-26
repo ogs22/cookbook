@@ -1,0 +1,9 @@
+To construct the orthocentre of a given triangle:
+\par
+Let the triangle's vertices be A, B and C;
+\par
+Construct a line through A perpendicular to the opposite side;
+\par
+Construct a line through B perpendicular to the opposite side;
+\par
+The intersection of these two lines, D, is the orthocentre.

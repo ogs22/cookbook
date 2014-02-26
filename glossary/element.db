@@ -1,0 +1,5 @@
+A member of a set.
+\par
+ $ \mathrm{x} \in \mathrm{S} $ means that element x is in set S.
+\par
+ $ \mathrm{x} \notin \mathrm{S} $ means that element x is not in set S.

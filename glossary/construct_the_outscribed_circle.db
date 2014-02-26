@@ -1,0 +1,10 @@
+Given a triangle ABC, we can construct the outscribed circle as follows:
+\par
+Draw the perpendicular bisector of AB;
+\par
+Draw the perpendicular bisector of BC;
+\par
+Label the point of intersection of these two bisectors, D;
+\par
+Use compasses to draw a circle with centre D, which passes through A. It will also
+pass through B and C, so it is the outscribed circle of triangle ABC.

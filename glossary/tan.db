@@ -1,0 +1,11 @@
+$\tan$ is an abbreviation for the tangent of an angle.
+\par
+Given an angle $\theta$ inside a right angled triangle:
+$$\tan \theta = \frac{\mbox{opposite}}{\mbox{adjacent}}$$
+where \emph{opposite} is the length of the side opposite $\theta$, and \emph{adjacent} is the length of the side next to $\theta$. 		
+\par
+This definition only works for acute angles. For other angles define:
+$$
+\tan \theta = \frac{\sin \theta}{\cos \theta}
+$$
+  

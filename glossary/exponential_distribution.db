@@ -1,0 +1,13 @@
+
+Distribution of waiting time, distribution of the time between (rare) events.  
+
+\par
+A continuous distribution for a random variable taking positive
+values, with frequency function:
+\[ \mathrm{f(x)} = \lambda \mathrm{e}^{- \lambda \mathrm{x}} . \]
+It has mean $ 1/ \lambda $ and variance $ 1/ \lambda ^2 . $ 
+
+\par
+This distribution is a special case of the gamma distribution.
+\par
+It has MGF $ M ( \theta ) = \frac{\lambda}{\lambda - \theta} . $

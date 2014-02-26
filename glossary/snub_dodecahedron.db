@@ -1,0 +1,10 @@
+The 34th uniform polyhedron is the Snub dodecahedron; it has Wythoff symbol | 2 3 5. Its dual is the pentagonal hexecontahedron. The pattern of polygons round each vertex is (3,3,3,3,5); its symmetry group is the icosahedral group A5.\par
+It has:
+\begin{description}
+\item[Euler characteristic:] 2
+\item[Density:] 1
+\item[Number of vertices:] 60
+\item[Number of edges:]  150
+\item[Number of faces:] 92 ( 12 pentagons and 80 triangles ).
+\end{description}  
+  

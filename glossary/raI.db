@@ -1,0 +1,16 @@
+A series of standard sizes for untrimmed paper. They are slightly larger than 
+the corresponding A-series sizes. Printers buy untrimmed paper, bind it and
+then trim it down to standard A- sizes.
+\par
+The ratio of side lengths is the same as for A- series, i.e. $ 1 : \sqrt{2} , $
+and RA0 size has area $1.05m^{2},$  RA1 half this, etc. So the sizes are:
+\par
+RA0= 860 \ensuremath{ \times } 1220 mm;
+\par
+RA1= 610 \ensuremath{ \times } 860 mm;
+\par
+RA2= 430 \ensuremath{ \times } 610 mm;
+\par
+RA3= 305 \ensuremath{ \times } 430 mm;
+\par
+RA4= 215 \ensuremath{ \times } 305 mm.

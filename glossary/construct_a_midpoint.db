@@ -1,0 +1,6 @@
+To construct the midpoint of a given line segment:
+\par
+Construct the perpendicular bisector;
+\par
+The midpoint is where the perpendicular bisector intersects
+the line.

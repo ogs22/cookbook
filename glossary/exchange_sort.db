@@ -1,0 +1,8 @@
+ A sorting algorithm:
+\par
+locate the smallest item, and swap it with the first item;
+\par
+locate the second smallest item, and swap it with the
+second item;
+\par
+etc. 

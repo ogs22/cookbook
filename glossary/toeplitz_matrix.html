@@ -1,0 +1,28 @@
+<p>A type of matrix defined by a column vector c and a row vector r. If c has elements <span class="math"><em>c</em><sub><em>i</em></sub>, <em>i</em> = 1...<em>m</em>, <em>a</em><em>n</em><em>d</em><em>r</em><em>h</em><em>a</em><em>s</em><em>e</em><em>l</em><em>e</em><em>m</em><em>e</em><em>n</em><em>t</em><em>s</em><em>r</em><sub><em>i</em></sub>, </span> i=1...n, then the Toeplitz matrix defined by them, T, is an <span class="math"><em>n</em> × <em>m</em></span> matrix with elements <br /><span class="math">$$t_{i,j} = 
+\left \{ 
+\begin{array}{cc} 
+  c_{i-j+1}, &amp; i-j \geq 0 \\
+  r_{j-i+1}, &amp; j-i &gt; 0 . 
+\end{array} 
+\right .$$</span><br /> eg. if <span class="math">$ c=
+\left ( 
+\begin{array}{c} 
+  1 \\ 
+  2 \\ 
+  3 \\
+  4 \\
+  5 
+\end{array} 
+\right ) $</span> and <span class="math">$ r= \left ( 
+\begin{array}{cccc} 
+  6 &amp; 7 &amp; 8 &amp; 9 
+\end{array} 
+\right ) , $</span> then <span class="math">$ T = 
+\left ( 
+\begin{array}{ccccc} 
+  1 &amp; 6 &amp; 7 &amp; 8 &amp; 9 \\
+  2 &amp; 1 &amp; 6 &amp; 7 &amp; 8 \\
+  3 &amp; 2 &amp; 1 &amp; 6 &amp; 7 \\
+  4 &amp; 3 &amp; 2 &amp; 1 &amp; 6 \\
+  5 &amp; 4 &amp; 3 &amp; 2 &amp; 1 
+\end{array} \right ). $</span></p>

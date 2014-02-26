@@ -1,0 +1,20 @@
+Euclid's five basic assumptions, on which he built his geometry:
+\par
+A straight line can be drawn between any pair of points;
+\par
+A straight line may be continued indefinitely in any direction;
+\par
+For any centre, and any radius, a circle may be drawn;
+\par
+All right angles are equal;
+\par
+Given a line and a point not on the line, exactly one line may 
+be drawn through the given point parallel to the given line.
+\par
+The last of these, also known as Playfair's axiom, is independent
+of the others and may be altered to give different, non-Euclidean geometries.
+It was originally stated in a different form, equivalent to:
+\par
+Given straight lines A and B, and a line C intersecting them, if
+the interior angles formed on the same side of C total less than two 
+right angles, then A and B produced must meet on this side of C.

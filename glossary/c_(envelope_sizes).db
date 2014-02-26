@@ -1,0 +1,34 @@
+A certain set of envelope sizes in common use are called the C-series and designated C4, C3, etc. They are defined as follows:
+\par
+Each envelope size is a rectangle with its sides in the ratio $ 1 : \sqrt{2} . $ C0 has area $ \sqrt[4]{2} \mathrm{m}^2 ,$ C1 half of this, C2 a quarter, etc.
+\par
+So the sizes are:
+\par
+C0 = 917 \ensuremath{ \times } 1297 mm;
+\par
+C1 = 648 \ensuremath{ \times } 917 mm; 
+\par
+C2 = 458 \ensuremath{ \times } 648 mm;
+\par
+C3 = 324 \ensuremath{ \times } 458 mm;
+\par
+C4 = 229 \ensuremath{ \times } 324 mm;
+\par
+C5 = 162 \ensuremath{ \times } 229 mm;
+\par
+C6 = 114 \ensuremath{ \times } 162 mm;
+\par
+C7 = 81 \ensuremath{ \times } 114 mm;
+\par
+C8 = 57 \ensuremath{ \times } 81 mm;
+\par
+C9 = 40 \ensuremath{ \times } 57 mm;
+\par
+C10 = 28 \ensuremath{ \times } 40 mm.
+\par
+Size C\emph{n} has width $2^{-1/8-n/2}$ m and height $2^{3/8-n/2}$ m.
+\par
+The sizes are rounded down to ensure that two C4 envelopes are slightly smaller than one A3 sheet, etc. 
+\par
+The height and width of size C\emph{n} are the geometric means of the heights and widths of paper sizes A\emph{n} and B\emph{n}, so that A4 fits comfortably into C4, etc.
+  

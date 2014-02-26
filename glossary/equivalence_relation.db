@@ -1,0 +1,7 @@
+A relation \R with the following properties:
+\par
+a\Ra for any a;
+\par
+a\Rb implies that b\Ra for any a and b;
+\par
+a\Rb and b\Rc together imply a\Rc.

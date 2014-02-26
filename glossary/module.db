@@ -1,0 +1,17 @@
+Let R be a ring. A right R-module (or simply a module over R) 
+is an additive abelian group, M, with a scalar multiplication
+$ M \times R \rightarrow M $ satisfying:
+\par
+(a+b)r=ar+br;
+\par
+a(r+p)=ar+ap;
+\par
+a(rp)=(ar)p;
+\par
+a1=a,
+\par
+where a and b are in M, r and p are in R, and 1 is the identity
+element of R.
+\par
+(Note that if, instead, R were a field, we would have a 
+vector space.)

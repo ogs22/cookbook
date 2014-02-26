@@ -1,0 +1,2 @@
+The tensor product of matrices A and B with entries $A_{ij}$  and $B_{ij} is C with entries C_{i}.$  If A is a \ensuremath{(p \times q)}
+matrix, and B is an \ensuremath{(r \times s)} matrix, then C is a \ensuremath{(pr \times qs)} matrix, and $C_{(i-1)r+k,(j-1)s+l}=A_{ij}B_{kl}.$ 
