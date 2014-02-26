@@ -1,8 +1,7 @@
-There are lots of ways to calculate
-!['  //pi  '](../dictionary/equation_images/2221.1..png); for instance
+There are lots of ways to calculate $ \pi $; for instance
 
-!['  (//pi)/(4) = 1 - (1/3) + (1/5) - (1/7) + ...  '](../dictionary/equation_images/2221.2..png)
-(Leibnitz\\'s series)
+$ \frac{\pi}{4} = 1 - (1/3) + (1/5) - (1/7) + ... $ (Leibnitz’s series)
 
-!['  (//pi)/(2) = (2)/(1) . (2)/(3) .  (4)/(3) . (4)/(5) . (6)/(5) . (6)/(7) .  (8)/(7) . (8)/(9) ...  '](../dictionary/equation_images/2221.3..png)
-(Wallis\\'s formula)
+$ \frac{\pi}{2} = \frac{2}{1} \cdot \frac{2}{3} \cdot
+\frac{4}{3} \cdot \frac{4}{5} \cdot \frac{6}{5} \cdot \frac{6}{7} \cdot
+\frac{8}{7} \cdot \frac{8}{9} ... $ (Walliss formula)

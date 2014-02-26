@@ -1,3 +1,3 @@
-\\
-![' (d)/(dx)  ( (f(x) )/(g(x)
-)  )   = (1)/(g\^2)  ( g  (df)/(dx) -   f  (dg)/(dx)  ) '](../dictionary/equation_images/2453.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \left ( \frac{\mathrm{f(x)}}{\mathrm{g(x)}} \right ) 
+= \frac{1}{\mathrm{g}^2} \left ( \mathrm{g} \frac {\mathrm{df}}{\mathrm{dx}} - 
+\mathrm{f} \frac {\mathrm{dg}}{\mathrm{dx}} \right )$$

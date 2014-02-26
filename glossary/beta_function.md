@@ -1,11 +1,9 @@
-The beta function with parameters p and q is: \\
+The beta function with parameters p and q is:
+$$\mathrm{B(p,q)} = \int_0^1 \mathrm{x}^{\mathrm{p}-1} 
+(1- \mathrm{x} ) ^{\mathrm{q}-1}$$
 
-![' B(p,q) =  the integral of \_0\^1 x\^(p-1)   (1- x ) \^(q-1) '](../dictionary/equation_images/3100.1..png)
+It can be written as:
+$$\mathrm{B(p,q)} = \frac{\Gamma \mathrm{(p)} \Gamma \mathrm{(q)}}
+{\Gamma \mathrm{(p+q)}}$$
 
-It can be written as: \\
-
-![' B(p,q) = (//Gamma (p) //Gamma (q) )/  (//Gamma (p+q)
-) '](../dictionary/equation_images/3100.2..png)
-
-where !['  //Gamma (t)  '](../dictionary/equation_images/3100.3..png)
-are gamma functions.
+where $ \Gamma \mathrm{(t)} $ are gamma functions.

@@ -1,2 +1,2 @@
-\\
-![' (//cos //theta + i //sin //theta )\^(n)   = //cos ( n //theta)  + i //sin ( n //theta) '](../dictionary/equation_images/2417.1..png)
+$$(\cos \theta + \mathrm{i} \sin \theta )^{\mathrm{n}} 
+= \cos ( \mathrm{n} \theta)  + \mathrm{i} \sin ( \mathrm{n} \theta)$$

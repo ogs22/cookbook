@@ -1,1 +1,1 @@
-Short for 'number'.
+Short for ’number’.

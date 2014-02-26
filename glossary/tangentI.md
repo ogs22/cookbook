@@ -1,7 +1,7 @@
-In a right angled triangle, if one of the angles is x, then the tangent
-of x is the ratio of lengths of the side opposite x to the side next to
-x. It is equal to sin(x)/cos(x).
+In a right angled triangle, if one of the angles is $\alpha$, then the
+tangent of $\alpha$ is the ratio of lengths of the side opposite
+$\alpha$ to the side next to $\alpha$. This definition is only useful if
+$\alpha < 90^\circ$.
 
-x= Degrees Radians
-
-tan(x)=
+More generally, define:
+$$\tan(\alpha) = \frac{\sin(\alpha)}{\cos(\alpha)}.$$

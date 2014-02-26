@@ -1,6 +1,6 @@
 Major Andre-Louis Cholesky (1875-1918) The mathematician after whom the
 Cholesky factorisation is named. He was born in France, and worked in
-the Geodesic section of the Geographic service to the French army\\'s
+the Geodesic section of the Geographic service to the French army’s
 artillery branch. At this time the system of triangulation used in
 France, and based on the meridian line of Paris, was being revised; new
 methods were needed in order to facilitate what was not yet a quick or

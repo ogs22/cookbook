@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) sech(x)  = - tanh(x)sech(x) . '](../dictionary/equation_images/3905.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{sech(x)}
+= - \mathrm{tanh(x)sech(x)} .$$

@@ -1,2 +1,3 @@
-\\
-!['  ( //C(n)(r)  )  +  ( //C(n)(r+1)  )   =  ( //C(n+1)(r+1)  ) . '](../dictionary/equation_images/1568.1..png)
+$${n \choose r} 
++ {n \choose {r+1}} 
+= {{n+1} \choose {r+1} }.$$

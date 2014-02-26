@@ -1,1 +1,3 @@
-Having an end. Not infinite.
+Having an end.
+
+Not infinite.

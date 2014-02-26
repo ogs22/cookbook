@@ -1,6 +1,5 @@
 A particular shape of curve, given by an equation of the form
-!['  y=ax\^2+bx+c  '](../dictionary/equation_images/1883.1..png) (a, b,
-c constants, a nonzero) .
+$ y=ax^2+bx+c $ (a, b, c constants, a nonzero) .
 
 The path of a thrown object is a parabola.
 

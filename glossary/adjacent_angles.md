@@ -1,6 +1,4 @@
-Adjacent angles are angles formed at the same point, next to one
-another.
-
-They are angles which can be written AOB, BOC. In the diagram, AOB and
-BOC are adjacent to one another; they are adjacent angles. They are both
-formed at point O, and they are next to one another.
+Angles $\angle AOB$ and $\angle BOC$ are adjacent if they share a common
+centre $O$ and a common line $OB$. Adjacent angles such that
+$\angle AOC$ are on the same straight line are called supplementary
+angles.

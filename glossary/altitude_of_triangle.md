@@ -1,3 +1,3 @@
-A line segment which gives the height of a plane or solid figure; either
-the distance between base and top, or the distance of a vertex from the
-opposite edge or face.
+A triangle $ABC$ has 3 altitudes. These are the perpendicular distances
+of $A$ from the line $BC$, of $B$ from the line $AC$, and of $C$ from
+the line $AB$.

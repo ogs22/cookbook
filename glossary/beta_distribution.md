@@ -1,8 +1,7 @@
 A continuous distribution taking values between 0 and 1, with
-distribution function \\
-
-![' f(x) = (1)/(B(m,n)
-) x \^(m-1)   ( 1- x ) \^ (n-1) '](../dictionary/equation_images/3108.1..png)
+distribution function
+$$\mathrm{f(x)} = \frac{1}{\mathrm{B(m,n)}} \mathrm{x} ^{\mathrm{m}-1} 
+( 1- \mathrm{x} ) ^ {\mathrm{n}-1}$$
 
 where B(m,n) is the beta function and m and n are positive.
 

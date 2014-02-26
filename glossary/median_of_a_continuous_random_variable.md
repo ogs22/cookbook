@@ -1,3 +1,3 @@
 If X is a continuous random variable with cumulative distribution
-function F(x), then the median, x~median~ of X is the value such that
-F(x~median~)=1/2.
+function F(x), then the median, $x_{median}$ of X is the value such that
+$F(x_{median})=1/2.$

@@ -1,1 +1,1 @@
-The SI unit of density, symbol kgm^-3^.
+The SI unit of density, symbol $kgm^{-3}.$

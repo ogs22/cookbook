@@ -1,1 +1,1 @@
-To find an optimum, ie the 'best' value of a variable.
+To find an optimum, i.e. the ’best’ value of a variable.

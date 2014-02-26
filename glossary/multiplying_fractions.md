@@ -3,12 +3,10 @@ number of the answer we multiply together the two top numbers, and to
 get the bottom number of the answer we multiply together the two bottom
 numbers.
 
-For example,
-!['  (2)/(3) × (4)/(5) .  '](../dictionary/equation_images/4195.1..png)
+For example, $ \frac{2}{3} \times \frac{4}{5} . $
 
 Multiplying the two top numbers gives 8. Multiplying the two bottom
-numbers gives 15. So the answer is
-!['  (8)/(15)  '](../dictionary/equation_images/4195.2..png)
+numbers gives 15. So the answer is $ \frac{8}{15} $
 
-ie
-!['  (2)/(3) × (4)/(5) = (2 × 4)/(3 × 5)  = (8)/(15) .  '](../dictionary/equation_images/4195.3..png)
+i.e. $ \frac{2}{3} \times \frac{4}{5} = \frac{2 \times 4}{3 \times 5}
+= \frac{8}{15} . $

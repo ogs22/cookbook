@@ -3,5 +3,5 @@ of X is either unchanged by A, or unchanged by B.
 
 Note that this implies AB=BA.
 
-For example, {0,1,2,3}-\>{1,0,2,3} and {0,1,2,3}-\>{0,1,3,2} are
-disjoint.
+For example, <span>0,1,2,3</span>-\><span>1,0,2,3</span> and
+<span>0,1,2,3</span>-\><span>0,1,3,2</span> are disjoint.

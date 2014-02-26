@@ -6,7 +6,7 @@ Divide by 10.
 
 The resulting sequence, 0.4, 0.7, 1.0, 1.6, 2.8, 5.2, 10.0, 19.6, 38.8
 etc, is very close to the sequence of mean distances of the planets from
-the sun, expressed as multiples of the earth's distance from the sun:
+the sun, expressed as multiples of the earth’s distance from the sun:
 
 0.39, 0.72, 1.00, 1.52, 5.20, 9.54, 19.19
 

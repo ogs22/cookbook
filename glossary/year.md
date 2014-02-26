@@ -6,6 +6,6 @@ the year number is divisible by 100, it must also be divisible by 400 in
 order to be a leap year) - which is close to the true value of just over
 365.2424.
 
-Extra seconds are inserted on New Year's Eve, to keep the year exactly
+Extra seconds are inserted on New Year’s Eve, to keep the year exactly
 in line with the seasons; sometimes you can hear the speaking clock make
 seven pips rather than the usual six, when this happens.

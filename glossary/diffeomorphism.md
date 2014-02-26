@@ -1,4 +1,2 @@
-A function between open sets of
-!['  (R) \^n ,  '](../dictionary/equation_images/2376.1..png) which is
-infinitely differentiable and whose inverse is infinitely
-differentiable.
+A function between open sets of $ \mathbb{R} ^n , $ which is infinitely
+differentiable and whose inverse is infinitely differentiable.

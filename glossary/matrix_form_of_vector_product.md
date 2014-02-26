@@ -1,5 +1,14 @@
 The vector product of two vectors can be written in the form of a
-matrix; if vector
-!['  a =  (  ( a\_1 //////// a\_2 //////// a\_3 )  ) ,  '](../dictionary/equation_images/1968.2..png)
-etc, then: \\
-![' a × b =  |  (   i   a\_1   b\_1 ////////  j   a\_2   b\_2 ////////  k   a\_3   b\_3 )  | . '](../dictionary/equation_images/1968.1..png)
+matrix; if vector $ a = \left ( 
+\begin{array}{c} 
+  a_1 \\
+  a_2 \\
+  a_3 
+\end{array} 
+\right ) , $ etc., then: $$a \times b = \left | 
+\begin{array}{ccc}  
+  i & a_1 & b_1 \\
+  j & a_2 & b_2 \\
+  k & a_3 & b_3 
+\end{array} 
+\right | .$$

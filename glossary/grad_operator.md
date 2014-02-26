@@ -1,4 +1,3 @@
-The notation grad(f) or
-!['  //nabla f  '](../dictionary/equation_images/3461.1..png) means the
-gradient vector of the function f, ie
-!['   ( (d(partial) f)/  (d(partial) x) , (d(partial) f)/ (d(partial) y)  ) .  '](../dictionary/equation_images/3461.2..png)
+The notation grad(f) or $ \nabla \mathrm{f} $ means the gradient vector
+of the function f, i.e. $ \left ( \frac{\partial \mathrm{f}}
+{\partial \mathrm{x}} , \frac{\partial \mathrm{f}} {\partial \mathrm{y}} \right ) . $

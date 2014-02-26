@@ -1,6 +1,3 @@
-\\
-!['  ( //C (n)(n-r)  ) =  ( //C (n)(r)  )'](../dictionary/equation_images/3414.1..png)
-\\
-!['  ( //C (n)(n)  ) = 1 '](../dictionary/equation_images/3414.2..png)
-\\
-!['  ( //C (n)(0)  ) = 1 '](../dictionary/equation_images/3414.3..png)
+$${n \choose k}   =  {n \choose{n-k}}$$ $${n \choose n}   = 1$$
+$${n \choose 0}   = 1$$ $${n \choose 1} = n$$
+$${n \choose k}  + {n \choose {k+1}}  = {{n+1} \choose {k+1}}.$$

@@ -1,3 +1,2 @@
-\\
-![' //nabla \^2 f = s '](../dictionary/equation_images/3485.1..png)
-where s is a known function of x, y and z.
+$$\nabla ^2 \mathrm{f} = \mathrm{s}$$ where s is a known function of x,
+y and z.

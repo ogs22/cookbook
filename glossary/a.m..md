@@ -1,2 +1,2 @@
-A short way of saying ante-meridian, which means before midday. That
-time from midnight until midday.
+A short way of saying ante-meridiem, which means before midday. The time
+from midnight until midday.

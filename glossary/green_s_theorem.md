@@ -1,10 +1,8 @@
 In two dimensions, if a closed curve C encloses a region R in which
 functions P(x,y) and Q(x,y) have continuous partial derivatives, then:
-\\
-
-!['  the integral of \_(C) ( Pdx + Qdy ) =  the integral of \_(R)  ( (d(partial) Q)/(d(partial) x)  - (d(partial) P)/(d(partial) y)  ) dA '](../dictionary/equation_images/2710.1..png)
+$$\int_{\mathrm{C}} ( \mathrm{Pdx + Qdy} ) = \int_{\mathrm{R}} \left ( \frac{\partial \mathrm{Q}}{\partial \mathrm{x}}
+- \frac{\partial \mathrm{P}}{\partial \mathrm{y}} \right ) \mathrm{dA}$$
 
 In three dimensions, if a closed surface S encloses a volume V in which
-a vector function F has continuous partial derivatives, then: \\
-
-!['  the integral of \_(S) ( F.n ) dA =  the integral of \_(V) ( //nabla .F ) dV '](../dictionary/equation_images/2710.2..png)
+a vector function F has continuous partial derivatives, then:
+$$\int_{\mathrm{S}} ( \mathrm{F.n} ) \mathrm{dA} = \int_{\mathrm{V}} ( \nabla \mathrm{.F} ) \mathrm{dV}$$

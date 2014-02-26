@@ -1,1 +1,1 @@
-Short for 'statistics'.
+Short for ’statistics’.

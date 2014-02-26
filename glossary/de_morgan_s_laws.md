@@ -1,4 +1,2 @@
-\\
-![' \~ ( p n q )  is equivalent to  \~ p u \~ q '](../dictionary/equation_images/1276.1..png)
-\\
-![' \~ ( p u q )  is equivalent to  \~ p n \~ q '](../dictionary/equation_images/1276.2..png)
+$$\sim ( p \cap q ) \equiv \sim p \cup \sim q$$
+$$\sim ( p \cup q ) \equiv \sim p \cap \sim q$$

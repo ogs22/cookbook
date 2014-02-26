@@ -1,3 +1,3 @@
 For a discrete random variable X, a cumulative probability function F is
-given by: \\
-![' F(x\_(i) ) = p(X \<= x\_(i) ) . '](../dictionary/equation_images/3418.1..png)
+given by:
+$$\mathrm{F(x}_{\mathrm{i}} ) = \mathrm{p(X} \leq \mathrm{x}_{\mathrm{i}} ) .$$

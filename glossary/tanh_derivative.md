@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) tanh(x)  = sech\^2 ( x ) . '](../dictionary/equation_images/3903.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{tanh(x)}
+= \mathrm{sech}^2 ( \mathrm{x} ) .$$

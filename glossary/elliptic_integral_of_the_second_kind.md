@@ -1,3 +1,4 @@
-An elliptic integral of the form: \\
-!['  the integral of  \_(0) \^(x)   the square root of  (  ( (1 - k\^2 t\^2 )/   ( 1 - t\^2 )  ) ) dt . '](../dictionary/equation_images/4475.1..png)
-k is called the modulus, and n is called the parameter.
+An elliptic integral of the form: $$\int _{0} ^{\mathrm{x}}
+\sqrt { \left ( \frac{1 - \mathrm{k}^2 \mathrm{t}^2 } 
+{ 1 - \mathrm{t}^2 } \right ) } \mathrm{dt} .$$ k is called the modulus,
+and n is called the parameter.

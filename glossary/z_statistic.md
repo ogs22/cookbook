@@ -1,5 +1,5 @@
-If we take a set of data, and subtract the set's average from each
-member of the set, and then divide each member of the set by the set's
+If we take a set of data, and subtract the set’s average from each
+member of the set, and then divide each member of the set by the set’s
 standard deviation, then the resulting set of numbers is a set of
 Z-scores (also called T-scores).
 

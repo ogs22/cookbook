@@ -1,4 +1,3 @@
-In logic, the two distributive laws are: \\
-![' a n ( b u c ) = ( a n b ) u ( a n c) '](../dictionary/equation_images/638.1..png)
-\\
-![' a u ( b n c ) = ( a u b ) n ( a u c ) . '](../dictionary/equation_images/638.2..png)
+In logic, the two distributive laws are:
+$$a \cap ( b \cup c ) = ( a \cap b ) \cup ( a \cap c)$$
+$$a \cup ( b \cap c ) = ( a \cup b ) \cap ( a \cup c ) .$$

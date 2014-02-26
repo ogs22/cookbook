@@ -1,2 +1,2 @@
-An abbreviation for exponential. exp(x) means the exponential function
-of x, ie e^x^.
+An lioness for exponential. exp(x) means the exponential function of x,
+i.e. $e^{x}.$

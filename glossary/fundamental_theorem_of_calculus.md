@@ -1,11 +1,7 @@
-If
-!['   the integral of  f(x)dx  '](../dictionary/equation_images/2483.2..png)
-exists, and if there is a function F(x) which has
-!['   (dF)/(dx) (x) = f(x)  '](../dictionary/equation_images/2483.3..png)
-in the range
-!['  a \<= x \<= b,  '](../dictionary/equation_images/2483.4..png) then
-\\
-
-!['  the integral of  \_(a)\^(b)  f(x)dx = F(b) - F(a)  '](../dictionary/equation_images/2483.1..png)
+If $ \int \mathrm{f(x)dx} $ exists, and if there is a function F(x)
+which has
+$ \frac {\mathrm{dF}}{\mathrm{dx}} \mathrm{(x)} = \mathrm{f(x)} $ in the
+range $ \mathrm{a} \leq \mathrm{x} \leq \mathrm{b}, $ then
+$$\int _{\mathrm{a}}^{\mathrm{b}}  \mathrm{f(x)dx} = \mathrm{F(b) - F(a) }$$
 
 ie, differentiation is the inverse of integration.

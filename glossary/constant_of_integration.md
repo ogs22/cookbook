@@ -8,6 +8,6 @@ So the absolute position of the curve is unknown; the answer to our
 integration must include a constant whose value we do not know. This is
 called the constant of integration.
 
-Example: 3x^2^+3 could be the derivative of x^3^+3x, or , or
-x^3^+3x+100, etc. So we write the integral as x^3^+3x+C. C is the
+Example: $3x^{2}+3 could be the derivative of x^{3}+3x,$ or , or
+$x^{3}+3x+100, etc. So we write the integral as x^{3}+3x+C.$ C is the
 constant of integration.

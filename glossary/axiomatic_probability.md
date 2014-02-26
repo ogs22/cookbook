@@ -1,18 +1,10 @@
-Let !['   //Omega   '](../dictionary/equation_images/20012.2..png) be a
-sample space; the probability
-!['   (P)  '](../dictionary/equation_images/20012.3..png) is a
-real-valued function defined on subsets of
-!['   //Omega   '](../dictionary/equation_images/20012.4..png)
-satisfying:
+Let $  \Omega  $ be a sample space; the probability $  \mathbf{P} $ is a
+real-valued function defined on subsets of $  \Omega  $ satisfying:
 
-!['  0 \<=  (P)(A) \<= 1  '](../dictionary/equation_images/20012.5..png)
-for
-!['  A   is a proper subset of eq  //Omega   '](../dictionary/equation_images/20012.6..png)
+$ 0 \leq  \mathbf{P}(A) \leq 1 $ for $ A  \subseteq  \Omega  $
 
-!['   (P)( //Omega )=1  '](../dictionary/equation_images/20012.7..png)
+$  \mathbf{P}( \Omega )=1 $
 
 For a finite or infinite sequence
-!['  A\_1,A\_2, ...   is a proper subset of eq  //Omega   '](../dictionary/equation_images/20012.8..png)
-of disjoint events, \\
-
-!['  (P)  (  u\_i A\_i  )=   the sum of \_i  (P)(A\_i). '](../dictionary/equation_images/20012.1..png)
+$ A_1,A_2, \ldots  \subseteq  \Omega  $ of disjoint events,
+$$\mathbf{P}  \left(  \bigcup_i A_i  \right)=  \sum_i  \mathbf{P}(A_i).$$

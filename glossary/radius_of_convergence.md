@@ -1,4 +1,4 @@
-Of a (complex) power series
-!['    the sum of  a\_n(z-z\_0)\^n  '](../dictionary/equation_images/20277.2..png)
-: this is defined as \\
-![' sup  //( r    |     there exists  z    //quad ( such that ) |z-z\_0|\<r  //quad ( and )   the sum of  a\_n(z-z\_0)\^n //quad ( converges)   //) . '](../dictionary/equation_images/20277.1..png)
+Of a (complex) power series $  \sum a_n(z-z_0)^n $ : this is defined as
+$$sup \left \{ r   \left |    \exists z  
+\quad \text{ such that } |z-z_0|<r
+\quad \text{ and }  \sum a_n(z-z_0)^n \quad \text{ converges} \right | \right \} .$$

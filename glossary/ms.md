@@ -1,1 +1,1 @@
-An abbreviation for milliseconds, ie thousandths of a second.
+An abbreviation for milliseconds, i.e. thousandths of a second.

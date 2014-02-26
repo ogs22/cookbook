@@ -3,9 +3,12 @@ set.
 
 There are four main types of mapping. They are:
 
-one to one mappings;\
- many to one mappings;\
- one to many mappings;\
- many to many mappings.
+one to one mappings;
+
+many to one mappings;
+
+one to many mappings;
+
+many to many mappings.
 
 A mapping diagram is used to show a mapping.

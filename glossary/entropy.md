@@ -5,6 +5,6 @@ state has low entropy, but an ordinary state that looks the same as
 millions of others has high entropy.
 
 The second law of thermodynamics states that on average, the entropy of
-the universe always increases, ie we move from organised states to less
-organised ones (things wear out and break, hot things cool down and cold
-ones warm up...)
+the universe always increases, i.e. we move from organised states to
+less organised ones (things wear out and break, hot things cool down and
+cold ones warm up...)

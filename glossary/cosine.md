@@ -1,6 +1,7 @@
-In a right-angled triangle, if one of the angles is x, then the cosine
-of x is the ratio of lengths of the side next to x, to the hypotenuse.
-
-x= Degrees Radians
-
-cos(x)=
+In a right-angled triangle, if one of the angles is $\theta$, then the
+cosine of $\theta$ is the length of the side adjacent to $\theta$,
+divided by the length of the hypotenuse.
+$$\cos \theta = \frac{\mbox{adjacent}}{\mbox{hypoteneuse}}$$
+Alternatively, and more generally, $\cos \theta$ is the $x$ coordinate
+of a point $P$ obtained by rotating $(1,0)$ about the origin through an
+angle $\theta$.

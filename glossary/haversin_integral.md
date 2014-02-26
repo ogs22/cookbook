@@ -1,2 +1,3 @@
-\\
-!['  the integral of  haversin(x) //thinsp dx  =  (1)/(2) ( x+cos(x) ) + C . '](../dictionary/equation_images/3884.1..png)
+$$\int \mathrm{haversin}(x) \, \mathrm{d}x
+= \int \frac{1-\cos x}{2} \, \mathrm{d}x
+= \frac{x-\sin(x)}{2} + C .$$

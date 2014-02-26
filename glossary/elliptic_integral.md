@@ -1,7 +1,5 @@
-An integral of the form \\
-
-!['  the integral of  f ( x,  the square root of (R) ) dx , '](../dictionary/equation_images/4473.1..png)
-
+An integral of the form
+$$\int \mathrm{f} ( \mathrm{x}, \sqrt{\mathrm{R}} ) \mathrm{dx} ,$$
 where R is a cubic or a quartic in x, and f is a rational functionof its
 two arguments.
 

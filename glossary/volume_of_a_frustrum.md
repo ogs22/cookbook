@@ -1,47 +1,27 @@
 A conical frustrum with height h, larger radius r and smaller radius q,
-has volume
-!['  V = (//pi h)/(3) ( r\^2  + qr + q\^2 )  '](../dictionary/equation_images/89.6..png)
+has volume $ \mathrm{V} = \frac{\pi h}{3} ( r^2  + qr + q^2 ) $
 
 To find the volume of a conical frustrum, we consider taking a cone of
-height h~2~ and base radius r, and cutting off from it a cone of height
-h~1~ and base radius q. The volume of the frustum is the difference
-between the volumes of these cones, ie
-!['  (//pi)/(3) ( r\^2 h\_2 - q\^2 h\_1 ) .  '](../dictionary/equation_images/89.7..png)
-(\*)
+height $h_{2}$ and base radius r, and cutting off from it a cone of
+height $h_{1}$ and base radius q. The volume of the frustum is the
+difference between the volumes of these cones, i.e.
+$ \frac{\pi}{3} ( r^2 h_2 - q^2 h_1 ) . $ (\*)
 
-Let h be the height of the frustrum itself, so
-!['  h = h\_2 - h\_1 ,  '](../dictionary/equation_images/89.8..png) and
-!['  h\_2 = h\_1 + h .  '](../dictionary/equation_images/89.9..png) (1)
+Let h be the height of the frustrum itself, so $ h = h_2 - h_1 , $ and
+$ h_2 = h_1 + h . $ (1)
 
 By considering similar triangles, we have
-!['  (h\_2)/(r) = (h\_1)/(q) ,  '](../dictionary/equation_images/89.10..png)
+$ \frac{h_2}{r} = \frac{h_1}{q} , $
 
-so, !['  h\_1 = (qh\_2)/(r) = (q(h\_1+h)
-)/(r)  '](../dictionary/equation_images/89.11..png)
+so, $ h_1 = \frac{qh_2}{r} = \frac{q(h_1+h)}{r} $
 
-so
-!['  h\_1 r = q h\_1 + q h  '](../dictionary/equation_images/89.12..png)
+so $ h_1 r = q h_1 + q h $
 
-so
-!['  h\_1 = (qh)/(r-q) .  '](../dictionary/equation_images/89.13..png)
-(2)
+so $ h_1 = \frac{qh}{r-q} . $ (2)
 
-Substituting (1) and (2) into (\*) gives: \\
-
-![' V = (//pi)/(3) ( r\^2 ( h\_1 + h ) - q\^2 h\_1 ) '](../dictionary/equation_images/89.1..png)
-
-\\
-
-![' = (//pi)/(3) ( r\^2 h + h\_1 ( r\^2 - q\^2 ) ) '](../dictionary/equation_images/89.2..png)
-
-\\
-
-![' = (//pi)/(3) ( r\^2 h + (qh)/(r-q) ( r\^2 - q\^2 ) ) '](../dictionary/equation_images/89.3..png)
-
-\\
-
-![' = (//pi)/(3) ( r\^2 h + qh ( r + q ) ) '](../dictionary/equation_images/89.4..png)
-
-\\
-
-![' = (//pi h )/(3) ( r\^2  + qr + q\^2 ) . '](../dictionary/equation_images/89.5..png)
+Substituting (1) and (2) into (\*) gives:
+$$V = \frac{\pi}{3} ( r^2 ( h_1 + h ) - q^2 h_1 )$$
+$$= \frac{\pi}{3} ( r^2 h + h_1 ( r^2 - q^2 ) )$$
+$$= \frac{\pi}{3} ( r^2 h + \frac{qh}{r-q} ( r^2 - q^2 ) )$$
+$$= \frac{\pi}{3} ( r^2 h + qh ( r + q ) )$$
+$$= \frac{\pi h }{3} ( r^2  + qr + q^2 ) .$$

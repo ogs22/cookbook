@@ -1,1 +1,1 @@
-A prefix either meaning 'not', or meaning 'nine'.
+A prefix either meaning ’not’, or meaning ’nine’.

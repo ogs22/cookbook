@@ -1,1 +1,1 @@
-The notation a|b means \\'a divides b\\', ie b is divisible by a.
+The notation a|b means ’a divides b’, i.e. b is divisible by a.

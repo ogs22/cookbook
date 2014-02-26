@@ -1,1 +1,1 @@
-For any x, coth^2^(x)-1=cosech^2^(x).
+For any x, $coth^{2}(x)-1=cosech^{2}(x).$

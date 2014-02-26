@@ -1,1 +1,1 @@
-The SI unit of acceleration, ms^-2^.
+The SI unit of acceleration, $ms^{-2}.$

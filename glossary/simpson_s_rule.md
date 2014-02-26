@@ -1,14 +1,12 @@
 A method of approximate numerical integration; equivalent to assuming
 that the curve being integrated is the same as the quadratic curve with
-the same endpoints and midpoint. \\
-
-!['  the integral of  \_(a) \^(b) f(x)dx  approximately equals   (b-a)/(6) [f(a) + 4f( (1)/(2) (a + b)
-) + f(b)]  '](../dictionary/equation_images/2886.1..png)
+the same endpoints and midpoint.
+$$\int _{\mathrm{a}} ^{\mathrm{b}} \mathrm{f(x)dx} \approx
+\frac{\mathrm{b-a}}{6} \mathrm{[f(a) + 4f(} \frac{1}{2} \mathrm{(a + b)) + f(b)] }$$
 
 This can be extended, if the region of integration is divided into n
-pieces of length h: \\
-
-!['  the integral of  \_a \^b y dx  approximately equals   (1)/(3) h [ ( y\_0 + y\_n ) + 4 ( y\_1 + y\_3 + ... + y\_(n-1) )  + 2 ( y\_2 + y\_4 + ... + y\_(n-2) ) ] , '](../dictionary/equation_images/2886.2..png)
-
-where x~i~ divide [a,b] into n pieces of width h=(b-a)/n, with x~0~=a
-and x~n~=b, and y~i~=y(x~i~).
+pieces of length h: $$\int _a ^b y dx \approx
+\frac{1}{3} h [ ( y_0 + y_n ) + 4 ( y_1 + y_3 + \ldots + y_{n-1} )
++ 2 ( y_2 + y_4 + \ldots + y_{n-2} ) ] ,$$ where $x_{i}$ divide [a,b]
+into n pieces of width h=(b-a)/n, with
+$x_{0}=a and x_{n}=b, and y_{i}=y(x_{i}).$

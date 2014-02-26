@@ -1,10 +1,5 @@
-Given points
-!['  (x\_1 , y\_1), (x\_2, y\_2) ,  '](../dictionary/equation_images/1646.1..png)
-the line joining them has gradient
-!['  m = (y\_2 - y\_1)/(x\_2 - x\_1) ,  '](../dictionary/equation_images/1646.2..png)
-length !['   the square root of (
-(x\_2 - x\_1)\^2 + (y\_2 - y\_1)\^2 ) ,  '](../dictionary/equation_images/1646.3..png)
-equation
-!['  (y - y\_1)/(x - x\_1) = (y\_2 - y\_1)/(x\_2 - x\_1) ,  '](../dictionary/equation_images/1646.4..png)
-and midpoint
-!['   (x\_1 + x\_2)/(2) , (y\_1 + y\_2)/(2) .  '](../dictionary/equation_images/1646.5..png)
+Given points $ (x_1 , y_1), (x_2, y_2) , $ the line joining them has
+gradient $ m = \frac{y_2 - y_1}{x_2 - x_1} , $ length
+$ \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 } , $ equation
+$ \frac{y - y_1}{x - x_1} = \frac{y_2 - y_1}{x_2 - x_1} , $ and midpoint
+$ \left ( \frac{x_1 + x_2}{2} , \frac{y_1 + y_2}{2} \right ). $

@@ -1,3 +1,7 @@
-For any x, \\
-![' cos(x)  = 1  - (x\^2)/(2!)  + (x\^4)/(4!)  - ...  + (
-(-1)\^(n) x\^(2 n) )/  ( ( 2 n ) ! )     + ... '](../dictionary/equation_images/3888.1..png)
+For any x, $$\cos(x)
+= 1
+- \frac{x^2}{2!}
++ \frac{x^4}{4!}
+- ...
++ \frac{(-1)^n x^{2n} }{(2n)!} 
++ ...$$

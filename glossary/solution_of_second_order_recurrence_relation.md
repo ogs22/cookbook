@@ -1,11 +1,12 @@
-The second order recurrence relation u~n+2~+au~n+1~+bu~n~=f(n) is solved
-in a similar way to a second order differential equation.
-
-First we solve for the complementary function u~n+2~+au~n+1~+bu~n~=0
-(\*); we construct the auxiliary equation m^2^+am+b=0, which has roots
-m~1~ and m~2~, and then (\*) has solutions \\
-
-!['  //(  ( u\_n = Am\_1 \^n + B m\_2 \^n ,   m\_1  is not equal to  m\_2   //////// u\_n = (An+B)m\_1 \^n ,   m\_1 = m\_2 )  . '](../dictionary/equation_images/1689.1..png)
-
-The solutions to the original equation are then found by adding a
-particular solution to these expressions.
+The second order recurrence relation $u_{n+2}+au_{n+1}+bu_{n}=f(n)$ is
+solved in a similar way to a second order differential equation. First
+we solve for the complementary function
+$$u_{n+2}+au_{n+1}+bu_{n}=0 (*)$$ then we construct the auxiliary
+equation $$m^{2}+am+b=0,$$ which has roots $m_{1} and m_{2},$ and then
+(\*) has solutions: $$\left \{ 
+\begin{array}{cc} 
+  u_n = Am_1 ^n + B m_2 ^n , & m_1 \neq m_2 \\
+  \ u_n = (An+B)m_1 ^n , & m_1 = m_2 
+\end{array}
+\right .$$ The solutions to the original equation are then found by
+adding a particular solution to these expressions.

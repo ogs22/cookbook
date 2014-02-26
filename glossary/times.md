@@ -1,5 +1,6 @@
 To multiply.
 
-Three times seven is twenty- one. This can be written using the symbol ×
+Three times seven is twenty- one. This can be written using the symbol
+$ \times $
 
-3×7 = 21.
+$3 \times 7$ = 21.

@@ -1,7 +1,10 @@
 A constant, denoted B, which is the sum of the reciprocals of all twin
-primes: \\
-
-![' B =  ( (1)/(3)+ (1)/(5)  )  +   ( (1)/(5)+ (1)/(7)  )  +   ( (1)/(11)+ (1)/(13)  )  +   ( (1)/(17)+ (1)/(19)  )  +   ( (1)/(29)+ (1)/(31)  )  +  ... '](../dictionary/equation_images/3207.1..png)
+primes: $$\mathrm{B} = \left ( \frac{1}{3}+ \frac{1}{5} \right )
++  \left ( \frac{1}{5}+ \frac{1}{7} \right )
++  \left ( \frac{1}{11}+ \frac{1}{13} \right )
++  \left ( \frac{1}{17}+ \frac{1}{19} \right )
++  \left ( \frac{1}{29}+ \frac{1}{31} \right )
++  ...$$
 
 (Note that since 5 occurs in two pairs of twin primes, it appears twice.
 Some mathematicians do not do this.)

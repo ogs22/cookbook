@@ -1,22 +1,11 @@
-If we write the elliptic integral of the first kind in this form: \\
-
-![' u =  the integral of  \_(0) \^(x) (dt)/   (  the square root of (
-((1- t\^2 ) ( 1 - k\^2 t\^2 )
-) ) ) , '](../dictionary/equation_images/4472.1..png)
-
-then the elliptic functions sn, cn and dn can be defined as: \\
-
-![' x = sn(u) , '](../dictionary/equation_images/4472.2..png)
-
-\\
-
-!['  the square root of ( 1 - x \^2 ) = cn(u) , '](../dictionary/equation_images/4472.3..png)
-
-\\
-
-!['  the square root of ( 1 - k\^2 x\^2 ) = dn(u) . '](../dictionary/equation_images/4472.4..png)
+If we write the elliptic integral of the first kind in this form:
+$$\mathrm{u} = \int _{0} ^{\mathrm{x}} \frac{\mathrm{dt}} 
+{ \sqrt{((1- \mathrm{t}^2 ) ( 1 - \mathrm{k}^2 \mathrm{t}^2 )) } } ,$$
+then the elliptic functions sn, cn and dn can be defined as:
+$$\mathrm{x = sn(u)} ,$$
+$$\sqrt{ 1 - \mathrm{x} ^2 } = \mathrm{cn(u)} ,$$
+$$\sqrt{ 1 - \mathrm{k}^2 \mathrm{x}^2 } = \mathrm{dn(u)} .$$
 
 (This is analogous to defining the circular functions in terms of the
-integral
-!['  u =  the integral of  \_(0) \^(x) (dt)/  ( the square root of (1-t\^2)
-) ,  '](../dictionary/equation_images/4472.5..png) x=sin(u). )
+integral $ \mathrm{u} = \int _{0} ^{\mathrm{x}} \frac{\mathrm{dt}}
+{\sqrt{1-\mathrm{t}^2}} , $ x=sin(u). )

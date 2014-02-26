@@ -1,4 +1,5 @@
-That time following the birth of Jesus Christ.
+The number of years following the birth of Jesus Christ. AD is
+abbreviated from Anno Domini, in the year of the Lord.
 
 For example:
 

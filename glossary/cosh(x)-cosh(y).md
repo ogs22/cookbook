@@ -1,2 +1,3 @@
-For any x and y, \\
-![' cosh(x)-cosh(y) =  2 sinh  ( (x+y)/(2)  )   sinh  ( (x-y)/(2)  ) . '](../dictionary/equation_images/3802.1..png)
+For any x and y, $$\mathrm{cosh(x)-cosh(y)} =
+2 \mathrm{sinh} \left ( \frac{\mathrm{x+y}}{2} \right ) 
+\mathrm{sinh} \left ( \frac{\mathrm{x-y}}{2} \right ) .$$

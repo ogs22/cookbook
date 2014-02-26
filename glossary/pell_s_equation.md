@@ -1,8 +1,5 @@
-\\
+$$\mathrm{x} ^2 - \mathrm{Ay} ^ 2 = 1$$ where A is a positive whole
+number but not a square number.
 
-![' x \^2 - Ay \^ 2 = 1 '](../dictionary/equation_images/2861.1..png)
-
-where A is a positive whole number but not a square number.
-
-It is a Diophantine equation, ie it is meant to be solved with x and y
+It is a Diophantine equation, i.e. it is meant to be solved with x and y
 as whole numbers.

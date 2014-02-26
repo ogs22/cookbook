@@ -1,3 +1,2 @@
-For any x and y, \\
-![' cot(x + y) = (1- cot(x)cot(y) )/(  cot(x) + cot(y)
-) . '](../dictionary/equation_images/3736.1..png)
+For any x and y,
+$$\mathrm{cot(x + y)} = \frac{1- \mathrm{cot(x)cot(y)}}{ \mathrm{ cot(x) + cot(y)}} .$$

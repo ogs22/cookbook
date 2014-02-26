@@ -1,2 +1,2 @@
-\\
-!['  the integral of  e\^(x) dx  = e\^(x) +C . '](../dictionary/equation_images/3959.1..png)
+$$\int \mathrm{e}^{\mathrm{x}} \mathrm{dx}
+= \mathrm{e}^{\mathrm{x}} +\mathrm{C} .$$

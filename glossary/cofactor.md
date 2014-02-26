@@ -1,8 +1,20 @@
 A cofactor of a particular number in a matrix is the determinant of the
-matrix formed by removing that number's row, and its column.
+matrix formed by removing that number’s row, and its column.
 
-For instance: in
-!['  (array)( ( 1   2   3 //// 4   5   6 //// 7   8   9 )  ),  '](../dictionary/equation_images/2474.1..png)
-the cofactor of 2 is
-!['  (array)| ( 4   6 //// 7   9 )  |  '](../dictionary/equation_images/2474.2..png)
-= 4 × 9 - 6 × 7 = -6
+For instance: in $ 
+\left( 
+\begin{array}{ccc}
+  1 & 2 & 3 \\
+  4 & 5 & 6 \\
+  7 & 8 & 9 
+\end{array} 
+\right), 
+$ the cofactor of 2 is $ 
+\left| 
+\begin{array}{cc}
+  4 & 6 \\
+  7 & 9 
+\end{array} 
+\right| 
+= 4 \times 9 - 6 \times 7 
+= -6$

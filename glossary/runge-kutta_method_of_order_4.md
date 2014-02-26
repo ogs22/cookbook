@@ -1,11 +1,11 @@
 A method for the numerical solution of first order differential
-equations: given equation
-!['  (dy)/(dx) = f(x,y)  '](../dictionary/equation_images/1743.1..png)
-and a starting point x~0~, y~0~, values of y~i+1~ for x~i~=x~i~+h are
-given approximately by
+equations: given equation $ \frac{dy}{dx} = f(x,y) $ and a starting
+point $x_{0}, y_{0}$, values of $y_{i+1}$ for $x_{i}=x_{i}+h$ are given
+approximately by $y_{i+1}=y_{i}+(k_{1}+2k_{2}+2k_{3}+k_{4}),$ where
 
-y~i+1~=y~i~+(k~1~+2k~2~+2k~3~+k~4~),\
- where k~1~=hf(x~i~, y~i~),\
- k~2~=hf(x~i~+h/2, y~i~+k~1~/2),\
- k~3~=hf(x~i~+h/2, y~i~+k~2~/2),\
- k~4~=hf(x~i~+h, y~i~+k~3~).
+$$\begin{aligned}
+  k_{1}&=&hf(x_{i}, y_{i})\\, 
+  k_{2}&=&hf(x_{i}+h/2, y_{i}+k_{1}/2),\\
+  k_{3}&=&hf(x_{i}+h/2, y_{i}+k_{2}/2),\\ 
+  k_{4}&=&hf(x_{i}+h, y_{i}+k_{3}).
+  \end{aligned}$$

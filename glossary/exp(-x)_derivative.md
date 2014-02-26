@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) exp(-x)  = - exp(-x) . '](../dictionary/equation_images/3948.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{exp(-x)}
+= - \mathrm{exp(-x)} .$$

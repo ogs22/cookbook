@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) haversin(x)  = (1)/(2) sin(x) . '](../dictionary/equation_images/3858.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{haversin(x)}
+= \frac{1}{2} \mathrm{sin(x)} .$$

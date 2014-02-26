@@ -1,7 +1,3 @@
-The locus !['  V  '](../dictionary/equation_images/182.2..png) of zeros
-of a set
-!['  //( f \_(//alpha) //)  '](../dictionary/equation_images/182.3..png)
-of polynomials in
-!['  k[X\_1, ... , X\_n] ,  '](../dictionary/equation_images/182.4..png)
-ie \\
-![' V = //( ( x\_1, ... , x\_n | f\_(//alpha) ( x\_1, ... , x\_n ) = 0  for all  //alpha //) . '](../dictionary/equation_images/182.1..png)
+The locus $ V $ of zeros of a set $ \{ f _{\alpha} \} $ of polynomials
+in $ k[X_1, \ldots , X_n] , $ i.e.
+$$V = \{ ( x_1, \ldots , x_n | f_{\alpha} ( x_1, \ldots , x_n ) = 0 \forall \alpha \} .$$

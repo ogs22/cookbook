@@ -1,1 +1,1 @@
-An abbreviation for 'binary digit', mostly used in computing.
+An abbreviation for ’binary digit’, mostly used in computing.

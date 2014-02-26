@@ -8,8 +8,8 @@ one seventh = 0.142857142857....
 Sometimes we write recurring decimals by writing out the repeating
 pattern once and putting a dot over the first and last digit of it,
 
-eg !['  (1)/(9) = 0..(1)  '](../dictionary/equation_images/2246.1..png)
+eg $ \frac{1}{9} = 0.\dot{1} $
 
-!['  (1)/(7) = 0..(1)4285.(7)  '](../dictionary/equation_images/2246.2..png)
+$ \frac{1}{7} = 0.\dot{1}4285\dot{7} $
 
 but this notation is becoming less common.

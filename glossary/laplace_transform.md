@@ -1,6 +1,6 @@
 If we have f(x), a function of x, we can turn it into another function
-of another variable, say y, using the Laplace transform: \\
-
-![' F(y) =  the integral of  \_(0) \^( is a member of fty) e\^( - xy)   f(x)dx . '](../dictionary/equation_images/10093.1..png)
+of another variable, say y, using the Laplace transform:
+$$\mathrm{F(y)} = \int _{0} ^{\infty} \mathrm{e}^{ - \mathrm{xy}} 
+\mathrm{f(x)dx} .$$
 
 Sometimes this is written F(y)=L(f(x)).

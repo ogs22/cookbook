@@ -1,11 +1,5 @@
-An action
-!['  G × X arrow X  '](../dictionary/equation_images/20122.2..png) is
-faithful if \\
-!['(  for all  x  is a member of  X)(g.x=h.x)  =&rt  g=h. '](../dictionary/equation_images/20122.1..png)
-Equivalent conditions are that
-!['  g.x=x    for all  x  =&rt  g=e  '](../dictionary/equation_images/20122.3..png)
-and
-!['   //ker(G arrow S\_X)=e  '](../dictionary/equation_images/20122.4..png)
-. Thus !['  G  '](../dictionary/equation_images/20122.5..png) may be
-regarded as the group of permutations of
-!['  X  '](../dictionary/equation_images/20122.6..png) .
+An action $ G \times X \rightarrow X $ is faithful if
+$$( \forall x \in X)(g.x=h.x) \implies g=h.$$ Equivalent conditions are
+that $ g.x=x   \forall x \implies g=e $ and
+$  \ker(G \rightarrow S_X)=e $ . Thus $ G $ may be regarded as the group
+of permutations of $ X $ .

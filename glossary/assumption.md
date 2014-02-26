@@ -6,6 +6,6 @@ This means that we know in what circumstances the proof works. For
 instance, two lines meet at a single point, assuming that they are not
 parallel.
 
-To make a 'proof by contradiction', we start by assuming something that
+To make a ’proof by contradiction’, we start by assuming something that
 we think is not true, and see if we can show that the consequences of
 this are obviously wrong.

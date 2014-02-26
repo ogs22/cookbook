@@ -1,4 +1,4 @@
-A number which can be written as 1^2^+2^2^+...+n^2^.
+A number which can be written as $1^{2}+2^{2}+...+n^{2}.$
 
 The nth square pyramidal number is n(n+1)(2n+1)/6. The first few are 1,
 5, 14, 30, 55.

@@ -1,1 +1,1 @@
-An 'input' for a function.
+An ’input’ for a function.

@@ -1,12 +1,7 @@
-There are two kinds: \\
+There are two kinds: $$\mathrm{H}_{\mathrm{n}}^{(1)} (\mathrm{z})
+= \mathrm{J}_{\mathrm{n}} (\mathrm{z}) + \mathrm{iY}_{\mathrm{n}}(\mathrm{z})$$
+$$\mathrm{H}_{\mathrm{n}}^{(2)} (\mathrm{z})
+= \mathrm{J}_{\mathrm{n}} (\mathrm{z}) - \mathrm{iY}_{\mathrm{n}}(\mathrm{z})$$
 
-![' H\_(n)\^( (1)
-) (z)  = J\_(n) (z) + iY\_(n)(z) '](../dictionary/equation_images/3099.1..png)
-
-\\
-
-![' H\_(n)\^( (2)
-) (z)  = J\_(n) (z) - iY\_(n)(z) '](../dictionary/equation_images/3099.2..png)
-
-where J~n~ and Y~n~ are Bessel functions of the first and second kinds.
-They are solutions of Bessel\\'s equation.
+where $J_{n} and Y_{n}$ are Bessel functions of the first and second
+kinds. They are solutions of Bessel’s equation.

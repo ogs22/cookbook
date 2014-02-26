@@ -1,3 +1,2 @@
-An expression for
-!['  //pi  '](../dictionary/equation_images/1552.2..png) is given by: \\
-![' (//pi \^4 )/(90) =  the sum of  \_(i=1) \^( is a member of fty) (1)/(i\^4) . '](../dictionary/equation_images/1552.1..png)
+An expression for $ \pi $ is given by:
+$$\frac{\pi ^4 }{90} = \sum _{i=1} ^{\infty} \frac{1}{i^4} .$$

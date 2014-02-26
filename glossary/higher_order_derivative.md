@@ -1,20 +1,16 @@
-We can differentiate a function as many times as we want; if we
-differentiate three times we get the third derivative, four times and we
-get the fourth derivative, etc.
+Some very well behaved functions can be differentiated as many times as
+we want; if we differentiate three times we get the third derivative,
+four times and we get the fourth derivative, etc.
 
-The n^th^ derivative is written !['   d\^n)y)/dx\^n)
-)  '](../dictionary/equation_images/2467.6..png)
+The $n^{th}$ derivative is written
+$ \frac {\mathrm{d}^{\mathrm{n}}\mathrm{y}}{\mathrm{dx}^{\mathrm{n}}} $
 
-So, for instance, if
-![' y =  (1)/x), '](../dictionary/equation_images/2467.7..png)
+So, for instance, if $ \mathrm{y} = \frac {1}{\mathrm{x}}, x \ne 0$
 
-![' dy)/dx) = (-1)/x\^2) '](../dictionary/equation_images/2467.1..png)
-
-![' d\^2y)/dx\^2) = (2)/x\^3) '](../dictionary/equation_images/2467.2..png)
-
-![' d\^3y)/dx\^3) = (-6)/x\^4) '](../dictionary/equation_images/2467.3..png)
-
-![' ... '](../dictionary/equation_images/2467.4..png)
-
-![' d\^n)y)/dx\^n)
-) =   (-1)\^n)n!)/x\^n+1) '](../dictionary/equation_images/2467.5..png)
+$$\begin{aligned}
+\frac{\mathrm{dy}}{\mathrm{dx}} &=& \frac{-1}{\mathrm{x}^2} \\
+\frac{\mathrm{d}^2 \mathrm{y}}{\mathrm{dx}^2} &=& \frac{2}{\mathrm{x}^3} \\
+\frac{\mathrm{d}^3 \mathrm{y}}{\mathrm{dx}^3} &=& \frac{-6}{\mathrm{x}^4} \\
+\vdots \\
+\frac{\mathrm{d}^{\mathrm{n}} \mathrm{y}}{\mathrm{dx}^{\mathrm{n}}} &=&
+ \frac{(-1)^{\mathrm{n}} \mathrm{n}!}{\mathrm{x}^{\mathrm{n}+1}}\end{aligned}$$

@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) cosh(x)  = sinh(x) . '](../dictionary/equation_images/3902.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{cosh(x)}
+= \mathrm{sinh(x)} .$$

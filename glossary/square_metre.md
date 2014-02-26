@@ -1,5 +1,5 @@
 The area of a square whose sides are one metre long. The abbreviation is
-m^2^.
+$m^{2}.$
 
 Ten thousand square centimetres.
 

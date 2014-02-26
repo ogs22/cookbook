@@ -1,3 +1,2 @@
-The graph of !['  y= (k)/(1+x(a-bx)
-)  '](../dictionary/equation_images/3328.1..png) has a characteristic
-shape which is called the logistic curve.
+The graph of $ \mathrm{y}= \frac{\mathrm{k}}{1+\mathrm{x(a-bx)}} $ has a
+characteristic shape which is called the logistic curve.

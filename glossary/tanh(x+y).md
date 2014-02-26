@@ -1,3 +1,3 @@
-For any x and y, \\
-![' tanh(x+y) =   (tanh(x) + tanh(y) )/  ( 1 + tanh(x)tanh(y)
-) . '](../dictionary/equation_images/3793.1..png)
+For any x and y, $$\mathrm{tanh(x+y)} = 
+\frac{\mathrm{tanh(x) + tanh(y)}}
+{ 1 + \mathrm{tanh(x)tanh(y)}} .$$

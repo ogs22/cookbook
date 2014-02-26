@@ -1,6 +1,6 @@
-A temperature scale. The key points of this scale are 0°, the
-temperature at which ice melts, and 100°, the temperature at which water
-boils.
+A temperature scale. The key points of this scale are $0^{\circ}$, the
+temperature at which ice melts, and $100^{\circ}$, the temperature at
+which water boils.
 
 It is named after the Swedish scientist who devised the scale.
 

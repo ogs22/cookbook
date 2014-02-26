@@ -1,2 +1,2 @@
-For any x and y, \\
-![' //sin x + //sin y   = 2 //sin (1)/(2)( x + y ) //cos (1)/(2)( x - y ) . '](../dictionary/equation_images/3725.1..png)
+For any x and y, $$\sin \mathrm{x} + \sin \mathrm{y} 
+= 2 \sin \frac{1}{2}( \mathrm{x + y} ) \cos \frac{1}{2}( \mathrm{x - y} ) .$$

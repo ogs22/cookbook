@@ -1,2 +1,3 @@
-An abbreviation where we use the first letter of each word; for
-instance, BST means British Summer Time.
+An abbreviation which creates a new word. For example LASER is a new
+word created from Light Amplification through Stimulater Emission of
+Radiation.

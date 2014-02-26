@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) arccot(x)  = (-1)/(1 + x\^2) . '](../dictionary/equation_images/3863.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{arccot}(x)
+= \frac{-1}{1 + x^2} .$$

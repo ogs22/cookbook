@@ -84,7 +84,7 @@ while($row = mysqli_fetch_assoc($result)) {
   	$def = utf8_encode($row['definition']);
   	$clean = cleanup($def);
 //    $md = md($clean);
-    $name = makeName($row['name']);
+    $name = makeName(utf8_encode($row['name']));
     checkDupe($name);
     echo $row['name']."::";
     echo $row['concept_no']."::";

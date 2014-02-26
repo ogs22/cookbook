@@ -1,4 +1,4 @@
-A line on the earth's surface which passes through the north and south
+A line on the earth’s surface which passes through the north and south
 poles and crosses the equator at right angles.
 
 A great circle passing through the poles.

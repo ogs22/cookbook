@@ -1,3 +1,3 @@
-An abbreviation for 'cubic centimetres'.
+An abbreviation for ’cubic centimetres’.
 
-cm^3^ is more often used.
+$cm^{3}$ is more often used.

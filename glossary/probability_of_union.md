@@ -1,3 +1,3 @@
-The probability of
-!['  E\_1 u E\_2  '](../dictionary/equation_images/3403.2..png) is: \\
-![' p(E\_1 u E\_2 ) = p(E\_1 ) + p(E\_2 )  - p(E\_1 n E\_2 ). '](../dictionary/equation_images/3403.1..png)
+The probability of $ \mathrm{E}_1 \cup \mathrm{E}_2 $ is:
+$$\mathrm{p(E}_1 \cup \mathrm{E}_2 ) = \mathrm{p(E}_1 ) + \mathrm{p(E}_2 )
+- \mathrm{p(E}_1 \cap \mathrm{E}_2 ).$$

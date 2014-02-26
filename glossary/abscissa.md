@@ -1,1 +1,1 @@
-The x co-ordinate in a cartesian co-ordinate system.
+The x co-ordinate in a Cartesian co-ordinate system.

@@ -1,1 +1,1 @@
-Next to
+Adjacent things are next to each other.

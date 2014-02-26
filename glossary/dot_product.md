@@ -1,18 +1,30 @@
-The dot product of two vectors **a** and **b**, written **a.b** or
-\<\<b\>a,**b**\> is a number. It is defined by: \\
+The dot product of two vectors $\mathbf{a}$ and $\mathbf{b}$, written
+$\mathbf{a}.\mathbf{b}$ or $<\mathbf{a},\mathbf{b}>$ is a number. It is
+defined by: $$\left ( \begin{array}{c} 
+  a_1 \\
+  a_2 \\
+  a_3 
+\end{array} \right ) \cdot 
+\left ( 
+\begin{array}{c} 
+  b_1 \\ 
+  b_2 \\
+  b_3 
+\end{array} 
+\right )
+= a_1 b_1 + a_2 b_2 + a_3 b_3,$$ or similarly for vectors with other
+numbers of components. Also:
+$\mathbf{a}.\mathbf{b} = |\mathbf{a}||\mathbf{b}|\cos \theta $, where
+$ \theta $ is the angle between the two vectors, and $|\mathbf{a}|$ and
+$|\mathbf{b}|$ are the lengths of $\mathbf{a}$ and $\mathbf{b}$.
 
-!['  (  ( x\_1 //////// y\_1 //////// z\_1 )  ) .    (  ( x\_2 //////// y\_2 //////// z\_2 )  )  = x\_1 x\_2 + y\_1 y\_2 + z\_1 z\_2 , '](../dictionary/equation_images/2450.1..png)
+Note that for every choice of $\mathbf{a}$, $\mathbf{b}$ and
+$\mathbf{c}$ we have:
 
-or similarly for vectors with other numbers of components.
+$$\begin{aligned}
+  \mathbf{a}.\mathbf{b} &=& \mathbf{b}.\mathbf{a}\\
+  \mathbf{a}.(\mathbf{b}+\mathbf{c}) &=& \mathbf{a}.\mathbf{b}+\mathbf{a}.\mathbf{c}\\
+  k\mathbf{a}.\mathbf{b}& = & k(\mathbf{a}.\mathbf{b})\\
+    &=&\mathbf{a}.k\mathbf{b} \quad\mbox{where k is a scalar}\end{aligned}$$
 
-Also: **a.b** = | **a** || **b** |cos
-!['  //theta  '](../dictionary/equation_images/2450.2..png), where
-!['  //theta  '](../dictionary/equation_images/2450.3..png) is the angle
-between the two vectors, and | **a** | and | **b** | are the lengths of
-**a** and **b**.
-
-Note that for every choice of **a**, **b** and **c** we have:
-
-**a**.**b**=**b**.**a**\
- **a**.(**b**+**c**)=**a**.**b**+**a**.**c**\
- k**a**.**b**=k(**a**.**b**)=**a**.k**b** where k is a scalar.
+.

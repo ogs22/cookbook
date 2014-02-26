@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) haversinh(x)  = - (1)/(2) sinh(x) . '](../dictionary/equation_images/3908.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{haversinh(x)}
+= - \frac{1}{2} \mathrm{sinh(x)} .$$

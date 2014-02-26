@@ -1,2 +1,2 @@
-\\
-!['  the integral of  cos(x) //thinsp dx  = sin(x)+C . '](../dictionary/equation_images/3877.1..png)
+$$\int \mathrm{cos(x)} \, \mathrm{dx}
+= \mathrm{sin(x)+C} .$$

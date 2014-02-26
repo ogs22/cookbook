@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) coversinh(x)  = - cosh(x) . '](../dictionary/equation_images/3909.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{coversinh(x)}
+= - \mathrm{cosh(x)} .$$

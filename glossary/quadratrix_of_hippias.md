@@ -1,2 +1,2 @@
 A curve with equation
-!['  y = x.cot  ( (//pi x)/(2 a)  ) .  '](../dictionary/equation_images/4050.1..png)
+$ \mathrm{y} = \mathrm{x.cot} \left ( \frac{\pi \mathrm{x}}{2 \mathrm{a}} \right ) . $

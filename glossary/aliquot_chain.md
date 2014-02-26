@@ -1,5 +1,5 @@
 For a given number, we can form an aliquot sequence by summing the
-number\\'s divisors (excluding itself) to form a new number, and then
+number’s divisors (excluding itself) to form a new number, and then
 repeating this process indefinitely.
 
 For some starting numbers the aliquot sequence will eventually cycle

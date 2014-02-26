@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) arcsin(x)  = (1)/( the square root of (1- x\^2 ) ) . '](../dictionary/equation_images/3860.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{arcsin}(x)
+= \frac{1}{\sqrt{1- x^2 } } .$$

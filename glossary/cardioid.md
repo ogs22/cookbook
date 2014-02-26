@@ -3,4 +3,4 @@ edge of a circle which is rolling around the outside of another circle
 of the same radius.
 
 In polar coordinates, it has equation
-!['  r = 2 a(1- cos //theta ).  '](../dictionary/equation_images/3233.1..png)
+$ \mathrm{r} = 2 \mathrm{a}(1- \mathrm{cos} \theta ). $

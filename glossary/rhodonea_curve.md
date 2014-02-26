@@ -1,2 +1,1 @@
-A curve with polar equation
-!['  r = a.sin(k //theta ) .  '](../dictionary/equation_images/4051.1..png)
+A curve with polar equation $ \mathrm{r} = \mathrm{a.sin(k} \theta ) . $

@@ -1,14 +1,15 @@
 An ordered set of four numbers. Sometimes a quaternion is written in the
-form x~0~+ix~1~+jx~2~+kx~3~; sometimes it is considered to be a scalar
-and a three-component vector.
+form $x_{0}+ix_{1}+jx_{2}+kx_{3};$ sometimes it is considered to be a
+scalar and a three-component vector.
 
 Quaternions written as above can be added and multiplied, using the
-laws:\
- i^2^=j^2^=k^2^=-1;\
- ij=k=-ji;\
- jk=i=-kj;\
- ki=j=-ik.
+laws:
+
+$$\begin{aligned}
+  i^{2} & = j^{2} = & k^{2} = -1 \\
+  ij & = k = & -ji \\
+  jk & = i = & -kj \\
+  ki & = j = & -ik.\end{aligned}$$
 
 The set of quaternions is a 4-dimensional vector space over
-!['  (R) .  '](../dictionary/equation_images/305.1..png) A basis of this
-space is 1, i, j, k.
+$ \mathbb{R} . $ A basis of this space is 1, i, j, k.

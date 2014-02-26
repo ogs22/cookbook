@@ -1,7 +1,6 @@
-The flux of a vector field f across a surface element with vector area
-**dS** or **n**dS, is defined as **F.dS** or **F.n**dS. The flux of f
-across a surface S is the integral of the fluxes across all the surface
-elements that make up S, ie:
-!['   the integral of  \_(S) f.dS  '](../dictionary/equation_images/3476.1..png)
-or
-!['   the integral of  \_(S) f.n dS .  '](../dictionary/equation_images/3476.2..png)
+The flux of a vector field $\mathbf{f}$ across a surface element with
+vector area $\mathbf{dS}$ or $\mathbf{n}dS$, is defined as
+$\mathbf{f.dS}$ or $\mathbf{f.n}dS$. The flux of $\mathbf{f}$ across a
+surface $S$ is the integral of the fluxes across all the surface
+elements that make up $S$, ie: $$\int_{S} \mathbf{f.dS}$$ or
+$$\int_{S} \mathbf{f.n} \mathrm{dS}.$$

@@ -1,1 +1,1 @@
-Since the event Ø contains no outcomes, p(Ø)=0.
+Since the event $\emptyset$ contains no outcomes, $p(\emptyset)=0$.

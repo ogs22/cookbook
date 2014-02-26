@@ -2,7 +2,7 @@ A collection of objects, with a binary operation, satisfying the group
 axioms:
 
 I: the result of the operation of two members of the group is always a
-member of the group ('closure');
+member of the group (’closure’);
 
 II: the operation is associative;
 

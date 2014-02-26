@@ -1,4 +1,3 @@
-The polynomial
-!['  P\_n (x) =  the sum of  L\_r (x) f(x) ,  '](../dictionary/equation_images/1689.1..png)
-where
-!['  L\_r (x) =  the product of  \_(i=1, i  is not equal to  r) \^(n)   (x - x\_i)/(x\_r - x\_i ) .  '](../dictionary/equation_images/1689.2..png)
+The polynomial $ P_n (x) = \sum L_r (x) f(x) , $ where
+$ L_r (x) = \prod _{i=1, i \neq r} ^{n} 
+\frac{x - x_i}{x_r - x_i } . $

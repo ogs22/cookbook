@@ -1,2 +1,2 @@
-A role which a number can have in an equation, etc; something a number
-can do or can be used to represent.
+A general term for any application of number. The term may also be used
+to characterise an area where numerical skills are appropriate.

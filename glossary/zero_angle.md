@@ -1,1 +1,1 @@
-An angle of 0°.
+An angle of $0^{\circ}$.

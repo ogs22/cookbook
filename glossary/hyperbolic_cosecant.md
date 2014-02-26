@@ -1,6 +1,5 @@
-The function which is written cosech(x) and defined by: \\
-![' cosech(x) = (1)/ ( sinh(x)
-) '](../dictionary/equation_images/3763.1..png)
-\\
-![' = (2)/ ( e\^(x) - e \^( - x) ) . '](../dictionary/equation_images/3763.2..png)
-x= cosech(x)=
+The function which is written $\mathrm{cosech}(x)$ and defined by:
+
+$$\begin{aligned}
+\mathrm{cosech}(x) &=& \frac{1} { \mathrm{sinh}(x)}\\
+&=& \frac{2} { e^x - e^{-x}}.\end{aligned}$$

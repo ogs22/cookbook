@@ -1,1 +1,1 @@
-A billionth (10^-9^) of a gram.
+A billionth $(10^{-9})$ of a gram.

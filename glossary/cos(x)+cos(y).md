@@ -1,2 +1,3 @@
-For any x and y,
-![' cosx   + cosy   = 2 cos (1)/(2)(x + y ) cos (1)/(2)(x - y ) . '](../dictionary/equation_images/2341.1..png)
+For any x and y, $$\cos \mathrm{x}
+ + \cos \mathrm{y}
+ = 2 \cos \frac{1}{2}( \mathrm{x + y} ) \cos \frac{1}{2}( \mathrm{x - y} ) .$$

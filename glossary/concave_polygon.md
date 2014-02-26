@@ -1,2 +1,2 @@
-A concave polygon has at least one reflex angle, ie an angle larger than
-180°.
+A concave polygon has at least one reflex angle, i.e. an angle larger
+than $180^{\circ}$.

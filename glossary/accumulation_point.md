@@ -1,2 +1,3 @@
-For a sequence, an accumulation point is a number in whose neighbourhood
-lie an infinite number of values in the sequence.
+a point $ x $ is an accumulation point of a set $ S $ if any
+neighbourhood $ N_x $ of $ x $ satisfies
+$ N_x \cap S \setminus  \{x \} \neq  \emptyset $ .

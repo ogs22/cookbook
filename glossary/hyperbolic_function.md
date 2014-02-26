@@ -1,10 +1,10 @@
 A group of functions related to the trigonometric functions:
 
-hyperbolic sin of x is written sinh(x) (pronounced 'shine x')
+hyperbolic sin of x is written sinh(x) (pronounced ’shine x’)
 
-hyperbolic cos of x is written cosh(x) ('cosh x')
+hyperbolic cos of x is written cosh(x) (’cosh x’)
 
-hyperbolic tan of x is written tanh(x) ('tansh x')
+hyperbolic tan of x is written tanh(x) (’tansh x’)
 
 Definitions; sinh(x) = [exp(x) - exp(-x)]/2
 

@@ -3,7 +3,7 @@ similarly-shaped distribution are drawn from the *same* distribution,
 against the alternative hypothesis that the populations have different
 locations.
 
-The samples x~i~, y~i~ give values d~i~=x~i~-y~i~; then | d~i~| are
-ranked. P and Q are respectively the sums of ranks for positive and
-negative d~i~. The test statistic is T=min[P,Q]. Tables are given for
-use with this test.
+The samples $x_{i}, y_{i}$ give values $d_{i}=x_{i}-y_{i}$; the
+$|d_{i}|$ are ranked. P and Q are respectively the sums of ranks for
+positive and negative $d_{i}.$ The test statistic is
+$T=\mathrm{min}[P,Q]$. Tables are given for use with this test.

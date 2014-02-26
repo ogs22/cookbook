@@ -1,21 +1,8 @@
-Given sequences
-!['  (a\_n)  '](../dictionary/equation_images/20235.3..png) and
-!['  (b\_n)  '](../dictionary/equation_images/20235.4..png) , if there
-is a constant !['  M  '](../dictionary/equation_images/20235.5..png)
-such that \\
-!['|a\_n| \<= M|b\_n| //quad (for all )n, '](../dictionary/equation_images/20235.1..png)
-then we write
-!['  a\_n = O(b\_n)  '](../dictionary/equation_images/20235.6..png) ,
-read \` !['  a\_n  '](../dictionary/equation_images/20235.7..png) is big
-Oh of !['  b\_n  '](../dictionary/equation_images/20235.8..png) \\'.
-Similarly for two functions on a set. If
-!['  a\_n=O(b\_n)  '](../dictionary/equation_images/20235.9..png) and
-!['  b\_n=O(a\_n)  '](../dictionary/equation_images/20235.10..png) we
-write
-!['  a\_n =  //Theta (b\_n)  '](../dictionary/equation_images/20235.11..png)
-. If \\
-!['  the limit of \_(n  --\>    is a member of fty ) | (a\_n)/(b\_n) | = 0, '](../dictionary/equation_images/20235.2..png)
-then !['  a\_n  '](../dictionary/equation_images/20235.12..png) is said
-to be !['  o(b\_n)  '](../dictionary/equation_images/20235.13..png) as
-!['  n  --\>   is a member of fty   '](../dictionary/equation_images/20235.14..png)
-. Compare asymptotically equivalent.
+Given sequences $ (a_n) $ and $ (b_n) $ , if there is a constant $ M $
+such that $$|a_n| \leq M|b_n| \quad \text{for all }n,$$ then we write
+$ a_n = O(b_n) $ , read ‘ $ a_n $ is big Oh of $ b_n $ ’. Similarly for
+two functions on a set. If $ a_n=O(b_n) $ and $ b_n=O(a_n) $ we write
+$ a_n =  \Theta (b_n) $ . If
+$$\lim_{n \to  \infty } \left| \frac{a_n}{b_n} \right| = 0,$$ then
+$ a_n $ is said to be $ o(b_n) $ as $ n \to \infty  $ . Compare
+asymptotically equivalent.

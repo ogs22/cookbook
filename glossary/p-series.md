@@ -1,6 +1,8 @@
-The p - series is:
-
-![' 1 +  (  (1)/(2)  ) \^p)  +  (  (1)/(3)  ) \^p)  +  (  (1)/(4)  ) \^p)  +  (  (1)/(5)  ) \^p)  + ... '](../dictionary/equation_images/2468.1..png)
+The p - series is: $$1 + \left ( \frac {1}{2} \right ) ^{\mathrm{p}}
++ \left ( \frac {1}{3} \right ) ^{\mathrm{p}}
++ \left ( \frac {1}{4} \right ) ^{\mathrm{p}}
++ \left ( \frac {1}{5} \right ) ^{\mathrm{p}}
++ ...$$
 
 If p=1, it is the harmonic series.
 

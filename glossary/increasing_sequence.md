@@ -1,3 +1,2 @@
-A sequence u~n~ is called monotonic increasing, or just increasing, if
-!['  u\_(n) \>= u\_(n-1)  '](../dictionary/equation_images/3671.1..png)
-for all n.
+A sequence $u_{n}$ is called monotonic increasing, or just increasing,
+if $ \mathrm{u}_{\mathrm{n}} \geq \mathrm{u}_{\mathrm{n}-1} $ for all n.

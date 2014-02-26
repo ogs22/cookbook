@@ -1,1 +1,1 @@
-The SI unit of speed, ms^-1^.
+The SI unit of speed, $ms^{-1}.$

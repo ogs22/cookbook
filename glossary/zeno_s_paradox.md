@@ -13,7 +13,7 @@ us a conclusion which is obviously wrong. Some of the ancient Greek
 philosophers said that Zeno was wrong because time cannot be infinitely
 subdivided; eventually the lengths of time for Achilles to get from one
 point to another gets so small that they are meaningless, and the
-argument cannot go on. But this doesn't quite solve the problem...
+argument cannot go on. But this doesn’t quite solve the problem...
 
 Nowadays, we can use the mathematics of geometric series to show that
 the infinite number of short lengths of time add up to a finite total,

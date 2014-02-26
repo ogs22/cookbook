@@ -1,4 +1,6 @@
-The remainder term R~n~ at the end of a Taylor series can be written: \\
-![' R\_(n) =   (1)/(
-( n - 1 ) ! )    the integral of  \_(a) \^(x)  ( x-t ) \^( ( n -1 ) )  f \^(
-( n ) ) ( t ) dt . '](../dictionary/equation_images/4467.1..png)
+The remainder term $R_{n}$ at the end of a Taylor series can be written:
+$$\mathrm{R}_{\mathrm{n}} = 
+\frac{1}{( \mathrm{n} - 1 ) ! } 
+\int _{\mathrm{a}} ^{\mathrm{x}}
+( \mathrm{x-t} ) ^{ ( \mathrm{n} -1 ) }
+\mathrm{f} ^{( \mathrm{n} ) } ( \mathrm{t} ) \mathrm{dt} .$$

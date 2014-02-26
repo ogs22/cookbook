@@ -1,8 +1,5 @@
-The symbol !['   for all   '](../dictionary/equation_images/2324.1..png)
-meaning that for every value of a certain variable, something is true.
+The symbol $ \forall $ meaning that for every value of a certain
+variable, something is true.
 
-Eg,
-!['   for all  x, x\^2\>0  '](../dictionary/equation_images/2324.2..png)
-means that for every value of
-!['  x, x\^2  '](../dictionary/equation_images/2324.3..png) is greater
-than zero
+Eg, $ \forall \mathrm{x}, \mathrm{x}^2>0 $ means that for every value of
+$ \mathrm{x}, \mathrm{x}^2 $ is greater than zero

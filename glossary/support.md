@@ -1,38 +1,22 @@
 In distribution theory -
 
-​1) of a test function
-!['  f :  (R)\^n  --\>   (C)  '](../dictionary/equation_images/20316.4..png)
-: the set \\
+-   of a test function $ f :  \mathbb{R}^n \to  \mathbb{C} $ : the set
+    $$\mathrm{supp} f =  \widetilde{ \{ x \mid f(x) \neq 0 \} },$$ where
+    the bar indicates the closure of a set.
 
-!['  supp f =  (bar)( //( x | f(x)  is not equal to  0 //) ), '](../dictionary/equation_images/20316.1..png)
+-   of a distribution $ T \in  \mathcal{D} $ : the (closed) set
+    $$\begin{array}{cc} 
+       \mathrm{supp} T=  \mathbb{R}^n \setminus  \{ x \in  \mathbb{R}^n &
+       \mid \exists U \subseteq  \mathbb{R}^n \quad \text{ open with }  x \in U,\\ 
+       & \forall f \in  \mathcal{D}  \mathrm{supp} f \subseteq U \implies \langle T,f \rangle =0 \}
+     \end{array}.$$
 
-where the bar indicates the closure of a set.
-
-​2) of a distribution
-!['  T  is a member of   //mathcal(D)  '](../dictionary/equation_images/20316.5..png)
-: the (closed) set \\
-
-!['  ( supp T=  (R)\^n //setminus  //( x  is a member of   (R)\^n       |  there exists  U  is a proper subset of eq  (R)\^n //quad ( open with )  x  is a member of  U   , //////// &   for all  f  is a member of   //mathcal(D)  supp f  is a proper subset of eq U  =&rt  \< T,f \> =0   //) . ) '](../dictionary/equation_images/20316.2..png)
-
-For
-!['  f  is a member of   //mathcal(D)  '](../dictionary/equation_images/20316.6..png)
-and
-!['  T  is a member of   //mathcal(D)  '](../dictionary/equation_images/20316.7..png)
-, we have that \\
-
-![' supp T n  supp f=0  =&rt   \< T,f \> =0, '](../dictionary/equation_images/20316.3..png)
-
+For $ f \in  \mathcal{D} $ and $ T \in  \mathcal{D} $ , we have that
+$$\mathrm{supp} T \cap  \mathrm{supp} f=0 \implies  \langle T,f \rangle =0,$$
 but not
-!['  f=0  //quad ( on )  supp T   =&rt   \< T,f \> =0 ;  '](../dictionary/equation_images/20316.8..png)
-for example, take
-!['  f(x)=x //phi (x)  '](../dictionary/equation_images/20316.9..png)
-where !['   //phi  '](../dictionary/equation_images/20316.10..png) is a
-bump function with support
-!['  [ -R,R ]  '](../dictionary/equation_images/20316.11..png) for some
-!['  R\>0  '](../dictionary/equation_images/20316.12..png) and
-!['  T= //delta ' \_0 ,  '](../dictionary/equation_images/20316.13..png)
-the Dirac delta function. Then
-!['   supp T= //(0 //)  '](../dictionary/equation_images/20316.14..png)
-and !['  f(0)=0  '](../dictionary/equation_images/20316.15..png) , but
-!['   \< T,f \> =f ' (0)  is not equal to  0  '](../dictionary/equation_images/20316.16..png)
-.
+$ f=0  \quad \text{ on }  \mathrm{supp} T  \implies  \langle T,f \rangle =0 ; $
+for example, take $ f(x)=x \phi (x) $ where $  \phi $ is a bump function
+with support $ [ -R,R ] $ for some $ R>0 $ and
+$ T= \delta ^{\prime} _0 , $ the Dirac delta function. Then
+$  \mathrm{supp} T= \{0 \} $ and $ f(0)=0 $ , but
+$  \langle T,f \rangle =f ^{\prime} (0) \neq 0 $ .

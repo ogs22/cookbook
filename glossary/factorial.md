@@ -1,9 +1,9 @@
 A shorthand way of writing down a special whole number:
 
-Four factorial or Factorial four is written 4! and means 4×3×2×1, which
-equals 24
+Four factorial or Factorial four is written 4! and means
+$$4\cdot 3\cdot 3\cdot 1$$, which equals 24
 
-Six factorial 6! = 6×5×4×3×2×1 = 720
+Six factorial 6! = 720.
 
 Factorials grow very quickly: 1! = 1; 2! = 2; 3! = 6; 4! = 24; 5! = 120;
 6! = 720; 7! = 5040; 8! = 40320; 9! = 362880

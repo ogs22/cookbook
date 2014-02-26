@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) tan(x)   = sec\^2 ( x ) . '](../dictionary/equation_images/3852.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{tan(x)} 
+= \mathrm{sec}^2 ( \mathrm{x} ) .$$

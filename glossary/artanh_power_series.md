@@ -1,3 +1,7 @@
-For any x with |x|\<1, \\
-![' arctanh(x)   = x  + (x\^3)/(3)  + (x\^5)/(5)  + ...  + (x\^(2n+1)
-)/(2n +1 )   + ... '](../dictionary/equation_images/3937.1..png)
+For any $x$ with $|x|<1$, $$\mathrm{arctanh}(x) 
+= x
++ \frac{x^3}{3}
++ \frac{x^5}{5}
++ ...
++ \frac{x^{2n+1}}{2n +1 } 
++ ...$$

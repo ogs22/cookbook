@@ -1,4 +1,4 @@
-Perpendicular means \\'at right angles\\'.
+Perpendicular means ’at right angles’.
 
 A perpendicular is a line that meets another line at right angles.
 

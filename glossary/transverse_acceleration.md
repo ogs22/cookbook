@@ -1,5 +1,5 @@
-In polar coordinates, the rate of change of transverse velocity, ie
-!['  r (..)(//theta) + 2 (.)(r) (.)(//theta) .  '](../dictionary/equation_images/2177.1..png)
+In polar coordinates, the rate of change of transverse velocity, i.e.
+$ r \overset{..}{\theta} + 2 \overset{.}{r} \overset{.}{\theta} . $
 
 Alternatively it can be written
-!['  (1)/(r) (d)/(dt) ( r \^2 .(//theta ) ) .  '](../dictionary/equation_images/2177.2..png)
+$ \frac{1}{r} \frac{d}{dt} ( r ^2 \dot{\theta } ) . $

@@ -1,7 +1,11 @@
-The theorem, due to Gauss, stating that, for
-!['  p  '](../dictionary/equation_images/20271.2..png) and
-!['  q  '](../dictionary/equation_images/20271.3..png) odd primes, \\
-
-!['    ( (p)/(q)  )  ( (q)/(p)  )  =(-1)\^( ( (p-1)/(2) (q-1)/(2) ) )  //(   (     1    p //quad (or )   q    is equivalent to  1 (mod 4)  ////////   -1    p //quad (and )   q     is equivalent to  3 (mod 4)  )    . '](../dictionary/equation_images/20271.1..png)
+The theorem, due to Gauss, stating that, for $ p $ and $ q $ odd primes,
+$$\left ( \frac{p}{q} \right ) \left ( \frac{q}{p} \right )
+=(-1)^{ ( \frac{p-1}{2} \frac{q-1}{2} ) } 
+\left \{
+\begin{array}{cc}
+  1 &  p \quad\mbox{or}\quad q \equiv 1 (mod 4) \\ 
+  -1 &  p \quad \mbox{and}\quad  q    \equiv 3 (mod 4)  
+\end{array} 
+\right .$$
 
 See Legendre symbol.

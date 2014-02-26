@@ -1,2 +1,3 @@
-\\
-![' z\^2 (d\^2 y)/(dz\^2)  + z  (dy)/(dz)  + ( z\^2 - n \^2 ) y = 0 '](../dictionary/equation_images/3097.1..png)
+$$\mathrm{z}^2 \frac{\mathrm{d}^2 \mathrm{y}}{\mathrm{dz}^2}
++ \mathrm{z}  \frac{\mathrm{dy}}{\mathrm{dz}}
++ ( \mathrm{z}^2 - \mathrm{n} ^2 ) \mathrm{y} = 0$$

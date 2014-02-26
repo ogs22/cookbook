@@ -1,1 +1,1 @@
-The mode of X, x~mode~ is the most likely value of X.
+The mode of X, $x_{mode}$ is the most likely value of X.

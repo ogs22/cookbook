@@ -4,11 +4,18 @@ polygons round it.
 
 There are eight of them, using:
 
-triangles and squares\
- triangles and squares\
- triangles and hexagons\
- triangles and hexagons\
- squares and octagons\
- triangles and dodecagons\
- squares, hexagons and dodecagons\
- triangles, squares and hexagons.
+triangles and squares
+
+triangles and squares
+
+triangles and hexagons
+
+triangles and hexagons
+
+squares and octagons
+
+triangles and dodecagons
+
+squares, hexagons and dodecagons
+
+triangles, squares and hexagons.

@@ -7,14 +7,10 @@ t-distribution with k degrees of freedom.
 This is also the same as the square root of an F-distribution with 1, k
 degrees of freedom, if k\>0.
 
-ie given n observations x~i~ from a normal distribution with mean
-!['  //mu ,  '](../dictionary/equation_images/4220.3..png) we define \\
-
-![' t = ( (bar)(x) - //mu )/  (s /  the square root of (n)
-) , '](../dictionary/equation_images/4220.1..png)
-
-where \\
-
-![' s\^2 =  the sum of  \_(i=1) \^(n)  ( ( x\_(i) - (bar)(x) ) \^(2) )/  (n-1) . '](../dictionary/equation_images/4220.2..png)
-
-Then t has a t-distribution with n-1 degrees of freedom.
+i.e. given n observations $x_{i}$ from a normal distribution with mean
+$ \mu , $ we define $$\mathrm{t} = \frac{\bar{\mathrm{x}} - \mu }
+{\mathrm{s} / \sqrt{\mathrm{n}}} ,$$ where
+$$\mathrm{s}^2 = \sum _{\mathrm{i}=1} ^{\mathrm{n}}
+\frac{ ( \mathrm{x}_{\mathrm{i}} - \bar{\mathrm{x}} ) ^{2} }
+{\mathrm{n}-1} .$$ Then t has a t-distribution with n-1 degrees of
+freedom.

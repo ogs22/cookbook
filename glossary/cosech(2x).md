@@ -1,2 +1,3 @@
-For any x, \\
-![' cosech(2x)   = (sech(x)cosech(x)\^2 )/  ( 2 sech(x)cosech(x) ) . '](../dictionary/equation_images/3823.1..png)
+For any x, $$\mathrm{cosech(2x)}
+ = \frac{\mathrm{sech(x)cosech(x)}^2 }
+{ 2 \mathrm{sech(x)cosech(x)} } .$$

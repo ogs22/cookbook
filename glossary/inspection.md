@@ -1,4 +1,4 @@
-Some equations can be solved by inspection, ie by looking at the
+Some equations can be solved by inspection, i.e. by looking at the
 equation and guessing or figuring out a solution without actually doing
 any algebra.
 

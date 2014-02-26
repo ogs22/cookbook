@@ -5,4 +5,10 @@ missed out. It is usually used in decimals, series, and matrices. Eg:
 
 1+2+3+4+...+n
 
-!['   (  ( 1   0   ...  ////////  0   1   ... ////////  ...   ...    //////// )  )  '](../dictionary/equation_images/3390.1..png)
+$ \left( 
+\begin{array}{ccc} 
+  1 & 0 & ...  \\
+  0 & 1 & ... \\
+  \vdots & \vdots & \vdots 
+\end{array} 
+\right) $

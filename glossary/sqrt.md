@@ -1,1 +1,1 @@
-Short for 'square root'.
+Short for ’square root’.

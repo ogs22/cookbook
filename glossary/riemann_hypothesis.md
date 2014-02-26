@@ -1,5 +1,5 @@
 The hypothesis that the Riemann zeta function
-!['  //zeta ( s ) =  the sum of  \^( is a member of fty) \_(n=1) n \^(- s)  '](../dictionary/equation_images/3574.1..png)
+$ \zeta ( \mathrm{s} ) = \sum ^{\infty} _{\mathrm{n}=1} \mathrm{n} ^{- \mathrm{s}} $
 is equal to zero only when s (which is a complex number) is equal to -2k
 for some natural number k, or when the real part of s is 1/2.
 

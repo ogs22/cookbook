@@ -1,8 +1,9 @@
-A kind of average value.
+The mean or arithmetic mean is one measure of the centre of a set of
+data. The mean is calculated by adding up all the values and dividing
+the total by the total number of values.
 
-It is found by adding up a set of values, and then dividing by the
-number of values.
+For example, when the values 7, 4, 6, 5, 7, 7, 6 are added the sum is
+42. The mean is calculated by dividing 42 by the number of values (7),
+giving a mean of 6.
 
-It is a measure of how typical something is. In your school you might
-like to think of the typical height of your classmates. Are they tall,
-short or some height in between?
+The arithmetic mean is sensitive to outlier values.

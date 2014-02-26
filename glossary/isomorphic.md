@@ -1,5 +1,5 @@
 Two groups are said to be isomorphic if there is an isomorphism between
-them, ie a bijective map which preserves the groups' multiplication
+them, i.e. a bijective map which preserves the groups’ multiplication
 table completely.
 
 In other words, G and H are isomorphic if there exists a bijective

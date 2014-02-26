@@ -1,2 +1,3 @@
-For any real x and y, \\
-![' cot(x+iy) = ( cot(x)coth(y) - i  )/  ( i.cot(x) + coth(y) ) . '](../dictionary/equation_images/3752.1..png)
+For any real x and y,
+$$\mathrm{cot(x+iy)} = \frac{ \mathrm{cot(x)coth(y) - i } }
+{ \mathrm{i.cot(x) + coth(y)} } .$$

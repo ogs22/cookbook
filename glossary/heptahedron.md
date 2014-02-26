@@ -5,4 +5,4 @@ volume it is not clear whether or not it should be considered a
 polyhedron.
 
 It can be formed from alternate faces of an octahedron, together with
-the octahedron\\'s three quadrilateral cross-sections.
+the octahedron’s three quadrilateral cross-sections.

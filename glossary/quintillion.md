@@ -1,1 +1,1 @@
-A million million million, or 10^18^.
+A million million million, or $10^{18}.$

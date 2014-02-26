@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) (fg) =   g (df)/(dx) + f (dg)/(dx) '](../dictionary/equation_images/2409.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{(fg)} = 
+\mathrm{g} \frac{\mathrm{df}}{\mathrm{dx}} + \mathrm{f} \frac{\mathrm{dg}}{\mathrm{dx}}$$

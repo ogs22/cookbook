@@ -1,11 +1,7 @@
-A distribution
-!['   //delta (x)  '](../dictionary/equation_images/640.2..png)
-satisfying \\
-
-![' //delta (x- //xi)=0    for all  x  is not equal to   //xi, //quad   the integral of \_(-  is a member of fty )\^  is a member of fty  //delta  (x- //xi)=1; '](../dictionary/equation_images/640.1..png)
+A distribution $  \delta (x) $ satisfying
+$$\delta (x- \xi)=0   \forall x \neq  \xi, \quad  \int_{- \infty }^ \infty  \delta
+(x- \xi)=1;$$
 
 It is formally defined as the limit of a sequence of functions
-!['   //delta \_n  '](../dictionary/equation_images/640.3..png) with the
-second property and
-!['   //delta \_n(0)  --\>   is a member of fty   '](../dictionary/equation_images/640.4..png)
-. See also Heaviside function.
+$  \delta _n $ with the second property and
+$  \delta _n(0) \to \infty  $ . See also Heaviside function.

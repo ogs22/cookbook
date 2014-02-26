@@ -1,7 +1,5 @@
-The Greek letter
-!['  //gamma  '](../dictionary/equation_images/2291.1..png) (lower case)
-or !['  //Gamma  '](../dictionary/equation_images/2291.2..png) (upper
-case), equivalent in sound to the English g.
+The Greek letter $ \gamma $ (lower case) or $ \Gamma $ (upper case),
+equivalent in sound to the English g.
 
 Large gamma denotes a gamma function.
 

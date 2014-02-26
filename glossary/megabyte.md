@@ -1,1 +1,1 @@
-2^20^ bytes, ie 1048576 bytes.
+$2^{20}$ bytes, i.e. 1048576 bytes.

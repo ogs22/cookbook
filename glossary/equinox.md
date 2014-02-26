@@ -1,4 +1,4 @@
-The time when the earth's axis of rotation is perpendicular to the line
+The time when the earth’s axis of rotation is perpendicular to the line
 joining the earth and the sun. This happens twice a year, on about 21st
 March and 23rd September.
 

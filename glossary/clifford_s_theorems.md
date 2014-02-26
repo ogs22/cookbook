@@ -1,14 +1,15 @@
-Given circles a~i~, i=1...4, all passing through point Q, let a~i~ and
-a~j~ also meet at P~ij~, and let a~ijk~ be the circle though P~ij~,
-P~jk~ and P~ik~ (the order of suffices does not matter).
+Given circles $a_{i},$ i=1...4, all passing through point Q, let
+$a_{i} and a_{j}$ also meet at $P_{ij}, and let a_{ijk}$ be the circle
+though $P_{ij}, P_{jk} and P_{ik}$ (the order of suffices does not
+matter).
 
-Then a~ijk~, a~jkl~, a~kli~, a~lij~ have a common point P~ijkl~
-(Clifford\\'s first theorem).
+Then $a_{ijk}, a_{jkl}, a_{kli},$ $a_{lij} have a common point P_{ijkl}$
+(Clifford’s first theorem).
 
-And P~ijkl~, P~jklm~, P~klmi~, P~lmij~, P~mijk~ all lie on a circle
-a~ijklm~ (Clifford\\'s second theorem).
+And $P_{ijkl}, P_{jklm}, P_{klmi},$ $P_{lmij}, P_{mijk}$ all lie on a
+circle $a_{ijklm}$ (Clifford’s second theorem).
 
-And a~ijklm~...a~nijkl~ have a common point P~ijklmn~ (Clifford\\'s
+And $a_{ijklm}...a_{nijkl}$ have a common point $P_{ijklmn}$ (Clifford’s
 third theorem).
 
 This sequence of theorems can be continued forever.

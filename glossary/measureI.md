@@ -1,12 +1,11 @@
 A measure is a property of certain sets. For a collection of subsets
-A~i~, a measure m is a function
-!['  m : //( A\_i //)  |-\>  (R)\^(+) u  //( +  is a member of fty //) ,  '](../dictionary/equation_images/1383.1..png)
-with the following properties:
+$A_{i},$ a measure m is a function
+$ m : \{ A_i \} \mapsto \mathbb{R}^{+} \cup
+\{ + \infty \} , $ with the following properties:
 
-!['  m ( Ø ) = 0 ;  '](../dictionary/equation_images/1383.2..png)\
- If all of ![' //(  A\_(i\_(n)
-) //)  '](../dictionary/equation_images/1383.3..png) are disjoint, then
-!['  m  ( u \_n A\_(i\_(n) )  ) =  the sum of  \_n m ( A\_(i\_(n)
-) ) .  '](../dictionary/equation_images/1383.4..png)
+$ m ( \emptyset ) = 0 ; $
+
+If all of $\{  A_{i_{n}} \} $ are disjoint, then
+$ m \left ( \bigcup _n A_{i_{n}} \right ) = \sum _n m ( A_{i_{n}} ) . $
 
 Both measurable and non-measurable sets exist.

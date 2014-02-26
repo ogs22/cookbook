@@ -1,8 +1,5 @@
-For any x, \\
-![' tanh  ( (x)/(2)  )  = (+/-)  the square root of ( (cosh(x) - 1)
-)/  (  cosh(x) + 1) ) '](../dictionary/equation_images/3829.1..png)
-\\
-![' = (sinh(x)
-)/ ( cosh(x) + 1) '](../dictionary/equation_images/3829.2..png)
-\\
-![' = (cosh(x) - 1)/  ( sinh(x) ) . '](../dictionary/equation_images/3829.3..png)
+For any x, $$\mathrm{tanh} \left ( \frac{x}{2} \right )
+= \pm \sqrt{ \frac{\mathrm{cosh(x)} - 1)}
+{  \mathrm{cosh(x)} + 1}}$$
+$$= \frac{\mathrm{sinh(x)}} { \mathrm{cosh(x)} + 1}$$
+$$= \frac{\mathrm{cosh(x)} - 1}  { \mathrm{sinh(x)} } .$$

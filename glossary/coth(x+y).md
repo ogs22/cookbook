@@ -1,3 +1,3 @@
-For any x and y, \\
-![' coth(x+y) =  (1 + coth(x)coth(y) )/   ( coth(x)+coth(y)
-) . '](../dictionary/equation_images/3794.1..png)
+For any x and y, $$\mathrm{coth(x+y)} =
+\frac{1 + \mathrm{coth(x)coth(y)}} 
+{ \mathrm{coth(x)+coth(y)}} .$$

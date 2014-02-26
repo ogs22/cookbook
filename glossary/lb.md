@@ -1,1 +1,1 @@
-An abbreviation for 'pounds,' the imperial unit of mass.
+An abbreviation for ’pounds,’ the imperial unit of mass.

@@ -1,3 +1,3 @@
-The mediant of two fractions
-!['   (a)/(b),    (c)/(d)  '](../dictionary/equation_images/3336.1..png)
-is !['   (a+c)/(b+d). '](../dictionary/equation_images/3336.2..png)
+The mediant of two fractions $ \frac {\mathrm{a}}{\mathrm{b}}, 
+\frac {\mathrm{c}}{\mathrm{d}} $ is
+$ \frac {\mathrm{a+c}}{\mathrm{b+d}}.$

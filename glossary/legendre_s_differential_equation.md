@@ -1,5 +1,3 @@
-\\
-
-![' ( 1 - x \^2 ) (d \^2 y)/(dx\^2) - 2s (dy)/(dx) + n(n-1)y = 0 '](../dictionary/equation_images/2544.1..png)
+$$( 1 - x ^2 ) \frac{d ^2 y}{dx^2} - 2s \frac{dy}{dx} + n(n-1)y = 0$$
 
 The solutions of this equation are the Legendre functions.

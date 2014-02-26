@@ -1,2 +1,2 @@
-Andrew Wiles - the British mathematician who proved Fermat's Last
+Andrew Wiles - the British mathematician who proved Fermat’s Last
 Theorem in 1994.

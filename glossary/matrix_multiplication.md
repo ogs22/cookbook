@@ -16,14 +16,31 @@ results of these multiplications. This gives the number in row 2, column
 
 Continue in this way to find all of the elements in the answer.
 
-For example: \\
-
-!['  (  ( 1   2 //////// 3   4 )  )     (  ( 5   6 //////// 7   8 )  )  =    (  ( (1 × 5) + ( 2 × 7 )   ( 1 × 6 ) + ( 2 × 8 ) ////////   ( 3 × 5) + ( 4 × 7 )   ( 3 × 6 ) + ( 4 × 8 ) )  ) '](../dictionary/equation_images/1346.1..png)
-
-\\
-
-![' =  (  ( 5 + 14   6 + 16 //////// 15 + 28   18 + 32 )  ) '](../dictionary/equation_images/1346.2..png)
-
-\\
-
-![' =  (  ( 19   22 //////// 43   50 )  ) '](../dictionary/equation_images/1346.3..png)
+For example: $$\left ( 
+\begin{array}{cc} 
+  1 & 2 \\
+  3 & 4 
+\end{array} 
+\right ) 
+\left ( 
+\begin{array}{cc} 
+  5 & 6 \\
+  7 & 8 
+\end{array} 
+\right )  =
+\left ( 
+\begin{array}{cc} 
+  (1 \times 5) + ( 2 \times 7 ) & ( 1 \times 6 ) + ( 2 \times 8 ) \\
+  ( 3 \times 5) + ( 4 \times 7 ) & ( 3 \times 6 ) + ( 4 \times 8 ) 
+\end{array}
+\right )$$ $$= \left( 
+\begin{array}{cc}
+  5 + 14 & 6 + 16 \\
+  15 + 28 & 18 + 32 
+\end{array} 
+\right )$$ $$= \left ( 
+\begin{array}{cc}
+  19 & 22 \\
+  43 & 50 
+\end{array} 
+\right )$$

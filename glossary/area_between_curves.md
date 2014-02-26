@@ -7,8 +7,7 @@ always greater than g(x) in that region, then we would integrate to find
 the area under the graph of f(x), and then subtract the area under the
 graph of g(x).
 
-ie, area
-!['  A =  the integral of \_(a)\^(b) f(x)dx -  the integral of \_(a)\^(b) g(x)dx.  '](../dictionary/equation_images/2438.1..png)
+ie, area $ A = \int_{a}^{b} f(x)dx - \int_{a}^{b} g(x)dx. $
 
 Care must be taken if the two curves cross, or if one of them crosses
 the x-axis in the required region.

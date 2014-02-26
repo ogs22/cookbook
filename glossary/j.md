@@ -1,5 +1,13 @@
-j is used to denote the unit vector in the y direction:
-!['  x =  (  ( 0 //////// 1 )  )  '](../dictionary/equation_images/1.1..png)
-in two dimensions or
-!['  x =  (  ( 0 //////// 1 //////// 0 )  )  '](../dictionary/equation_images/1.2..png)
-in three dimensions.
+$\vec{j}$ is conventionally used to denote the unit vector in the $y$
+direction: $ \vec{j} = \left ( 
+  \begin{array}{c} 
+    0 \\
+    1 
+  \end{array} 
+  \right ) $ in two dimensions or $ \vec{j} = \left ( 
+  \begin{array}{c} 
+    0 \\ 
+    1 \\
+    0 
+  \end{array} 
+  \right ) $ in three dimensions.

@@ -1,6 +1,7 @@
-A sequence u~n~ with the property that u~i~+u~i+1~=u~i+2~ for every i.
+A sequence $u_{n}$ with the property that $u_{i}+u_{i+1}=u_{i+2}$ for
+every i.
 
-Usually we also require that u~0~=u~1~=1.
+Usually we also require that $u_{0}=u_{1}=1.$
 
 The sequence begins: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
 

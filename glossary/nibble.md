@@ -1,1 +1,1 @@
-Half a byte, ie four binary digits.
+Half a byte, i.e. four binary digits.

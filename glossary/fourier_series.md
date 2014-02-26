@@ -1,6 +1,7 @@
-The infinite series: \\
-
-![' (1)/(2) a\_0 +   the sum of  \_(n=1) \^( is a member of fty)   ( a\_(n) cos(nx)  + b\_(n) sin(nx) )  '](../dictionary/equation_images/3538.1..png)
+The infinite series: $$\frac{1}{2} \mathrm{a}_0 +
+\sum _{\mathrm{n}=1} ^{\infty} 
+( \mathrm{a}_{\mathrm{n}} \mathrm{cos(nx)}
++ \mathrm{b}_{\mathrm{n}} \mathrm{sin(nx)} )$$
 
 Many periodic function can be represented using such series, by an
-appropriate choice of the coefficients. a~n~, b~n~.
+appropriate choice of the coefficients. $a_{n}, b_{n}.$

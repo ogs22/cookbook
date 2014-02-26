@@ -1,1 +1,1 @@
-The symbol for megametres, ie units of one million metres.
+The symbol for megametres, i.e. units of one million metres.

@@ -5,19 +5,16 @@ acceleration, and vertical acceleration equal to -g. It has constant
 horizontal speed, and its path is a parabola.
 
 If the initial speed is u, and the projectile leaves the origin
-travelling at an angle
-!['  //alpha  '](../dictionary/equation_images/2116.1..png) above the
-horizontal, then at time t we have:
+travelling at an angle $ \alpha $ above the horizontal, then at time t
+we have:
 
-!['  x = ut //cos //alpha ,  '](../dictionary/equation_images/2116.2..png)\
+$ x = ut \cos \alpha , $
 
-!['  y = ut //sin //alpha  - (1)/(2) g t\^2 ,  '](../dictionary/equation_images/2116.3..png)\
+$ y = ut \sin \alpha  - \frac{1}{2} g t^2 , $
 
-!['  v\_x = u //cos //alpha ,  '](../dictionary/equation_images/2116.4..png)\
+$ v_x = u \cos \alpha , $
 
-!['  v\_y = u //sin //alpha - gt .  '](../dictionary/equation_images/2116.5..png)
+$ v_y = u \sin \alpha - gt . $
 
-It reaches y=0 again at time
-!['  t = (2u //sin //alpha )/(g) ,  '](../dictionary/equation_images/2116.6..png)
-when
-!['  x = (u\^2)/(g) //sin ( 2 //alpha ) .  '](../dictionary/equation_images/2116.7..png)
+It reaches y=0 again at time $ t = \frac{2u \sin \alpha }{g} , $ when
+$ x = \frac{u^2}{g} \sin ( 2 \alpha ) . $

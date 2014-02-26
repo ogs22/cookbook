@@ -1,1 +1,1 @@
-Short for 'squared'.
+Short for ’squared’.

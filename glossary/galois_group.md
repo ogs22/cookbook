@@ -3,4 +3,5 @@ automorphisms of F which leave every element of K unchanged, is a group.
 It is called the Galois group of F over K, denoted Gal(F/K).
 
 ie,
-!['  Gal(F/K) = ( //theta  is a member of  Aut(F)| //theta ( a )  = a    for all  a  is a member of  K )  .  '](../dictionary/equation_images/3594.1..png)
+$ \mathrm{Gal(F/K)} = { \theta \in \mathrm{Aut(F)|} \theta ( \mathrm{a} )
+= \mathrm{a} \; \forall \mathrm{a} \in \mathrm{K} }  . $

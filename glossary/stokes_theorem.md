@@ -1,3 +1,3 @@
-For a vector function F: \\
-!['  the integral of  \_(S) //nabla ×  (F.n)dA =  the integral of  \_( C )  F.ds '](../dictionary/equation_images/2840.1..png)
+For a vector function F:
+$$\int _{\mathrm{S}} \nabla \times  \mathrm{(F.n)dA} = \int _{ \mathrm{C} }  \mathrm{F.ds}$$
 where C is a closed curve and S is the surface it encloses.

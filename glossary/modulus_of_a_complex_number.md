@@ -1,5 +1,9 @@
-The modulus of z=x+iy, |z|=x^2^+y^2^. It is the distance of z from the
-origin, in the complex plane.
+The modulus of $z \in \mathbb{C}$ is given by $|z|=\sqrt{x^{2}+y^{2}}$,
+where $x,y \in \mathbb{R}$ and $z=x+iy$.
 
-This is also equal to !['   the square root of (zz\^(\*)
-) .  '](../dictionary/equation_images/1623.1..png)
+$|z|$ is the distance $r$ of $z$ from the origin $0$. When $z$ is
+expressed in polar coordinates, $z = re^{i\theta} =
+  |z|e^{i\theta}$.
+
+It is sometimes convenient to calculate $|z|$ using the complex
+conjugate $z^{*}= x - iy$ since $|z|^2 = zz^*$.

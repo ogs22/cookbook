@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) cot(x)  = - cosec\^2 ( x ) . '](../dictionary/equation_images/3853.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{cot(x)}
+= - \mathrm{cosec}^2 ( \mathrm{x} ) .$$

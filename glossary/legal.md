@@ -1,1 +1,1 @@
-The US standard paper size \\'Legal\\' is 216 × 356 mm.
+The US standard paper size ’Legal’ is 216 $ \times $ 356 mm.

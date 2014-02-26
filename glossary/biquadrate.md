@@ -1,2 +1,2 @@
-The result of multiplying a number by itself four times; the square of a
-square number.
+The result of multiplying a number by itself three times (a times a
+times a times a); the square of a square number.

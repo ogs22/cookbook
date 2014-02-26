@@ -10,7 +10,7 @@ n=k+1.
 
 Then we are done, because 1) and 2) together imply that H is true for
 n=2; then 2) implies that H is true for n=3; then 2) implies that H is
-true for n=4... etc
+true for n=4... etc.
 
 H is called the inductive hypothesis.
 

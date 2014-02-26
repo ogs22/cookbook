@@ -8,4 +8,4 @@ followed by a hundred zeros: 1
 It is much bigger than the number of raindrops falling on New York City
 in a century.
 
-A shorthand for a googol is 10^100^
+A shorthand for a googol is $10^{100}$

@@ -1,5 +1,6 @@
-The function: \\
-![' //zeta ( s ) =  the sum of  \^( is a member of fty) \_(n=1) n \^(- s) '](../dictionary/equation_images/3573.1..png)
+The function:
+$$\zeta ( \mathrm{s} ) = \sum ^{\infty} _{\mathrm{n}=1} \mathrm{n} ^{- \mathrm{s}}$$
 It can be shown that it is equal to
-!['   the product of  \_(p) ( 1 - p   \^(- s) ) \^ (-1)  '](../dictionary/equation_images/3573.2..png)
-where the product is taken over all prime numbers p.
+$ \prod _{\mathrm{p}} ( 1 - \mathrm{p} 
+^{- \mathrm{s}} ) ^ {-1} $ where the product is taken over all prime
+numbers p.

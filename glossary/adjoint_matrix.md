@@ -1,6 +1,15 @@
 The adjoint of a matrix is the transpose of the matrix made up of the
 cofactors of the original matrix.
 
-So,
-
-!['adj (array)( a &b &c //// d &e &f //// g &h &i )  )   = (array)( (ei - hf) &(hc - bi) &(bf - ec) //// (gf - di) &(ai - gc) &(dc - af) //// (dh - ge) &(gb - ah) &(ae - db) )  ) '](../dictionary/equation_images/2426.1..png)
+So, $$\mathrm{adj} 
+  \left ( \begin{array}{ccc}
+  \mathrm{a} & \mathrm{b} & \mathrm{c} \\
+  \mathrm{d} & \mathrm{e} & \mathrm{f} \\
+  \mathrm{g} & \mathrm{h} & \mathrm{i} 
+  \end{array} \right )
+= \left ( \begin{array}{ccc} 
+  \mathrm{(ei - hf)} & \mathrm{(hc - bi)} & \mathrm{(bf - ec)} \\
+  \mathrm{(gf - di)} & \mathrm{(ai - gc)} & \mathrm{(dc - af)} \\
+  \mathrm{(dh - ge)} & \mathrm{(gb - ah)} & \mathrm{(ae - db)}
+  \end{array}
+\right )$$

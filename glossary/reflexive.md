@@ -1,1 +1,1 @@
-A relation \~ is called reflexive if x\~x is true for any x.
+A relation is called reflexive if xis true for any x.

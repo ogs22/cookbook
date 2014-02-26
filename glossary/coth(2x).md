@@ -1,2 +1,3 @@
-For any x, \\
-![' coth(2x)    = ( 1 + coth(x)\^2)/  ( 2 coth(x) ) . '](../dictionary/equation_images/3821.1..png)
+For any x, $$\mathrm{coth(2x)} 
+ = \frac{ 1 + \mathrm{coth(x)}^2}
+{ 2 \mathrm{coth(x)} } .$$

@@ -1,3 +1,2 @@
-\\
-![' (d)/(dx) arcsec(x)   = (1)/(x  the square root of (x\^2 - 1 )
-) . '](../dictionary/equation_images/3864.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{arcsec}(x) 
+= \frac{1}{x \sqrt{x^2 - 1 }} .$$

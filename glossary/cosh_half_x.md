@@ -1,2 +1,2 @@
-For any x, \\
-![' cosh  ( (x)/(2)  )   = (+/-) (1)/(2)  the square root of  ( cosh(x) + 1 ) . '](../dictionary/equation_images/3828.1..png)
+For any x, $$\mathrm{cosh} \left ( \frac{\mathrm{x}}{2} \right ) 
+= \pm \frac{1}{2} \sqrt { \mathrm{cosh(x)} + 1 } .$$

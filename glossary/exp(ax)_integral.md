@@ -1,2 +1,2 @@
-\\
-!['  the integral of  e\^(ax) dx  = (1)/(a) e\^(ax) + C . '](../dictionary/equation_images/3960.1..png)
+$$\int \mathrm{e}^{\mathrm{ax}} \mathrm{dx}
+= \frac{1}{\mathrm{a}} \mathrm{e}^{\mathrm{ax}} + \mathrm{C} .$$

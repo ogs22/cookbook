@@ -1,8 +1,13 @@
-The step function H(t), defined as: \\
+The step function $\mathrm{H}(t)$, defined as: $$\begin{array}{c} 
+  \mathrm{H}(t) = 0, \\
+  \mathrm{H}(t) = 1, 
+\end{array}
+\left \{ 
+\begin{array}{c} 
+  t < 0 \\
+  tt \geq 0 
+\end{array}
+\right .$$
 
-!['  (H(t) = 0, ////////  H(t) = 1, )   //(    ( t \<0 //////// t \>= 0 )    '](../dictionary/equation_images/3717.1..png)
-
-We have
-!['  H ' (x)= //delta(x)  '](../dictionary/equation_images/3717.2..png)
-where !['   //delta   '](../dictionary/equation_images/3717.3..png) is
-the Dirac delta function; H\\'(x) is undefined when x=0.
+We have $ \mathrm{H}^{\prime} (x)= \delta(x) $ where $\delta$ is the
+Dirac delta function; $\mathrm{H}^{\prime}(x)$ is undefined when $x=0$.

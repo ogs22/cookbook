@@ -1,4 +1,4 @@
-A rule for approximate numerical integration: \\
-!['  the integral of  \_a \^b y dx  approximately equals   (1)/(2) h [ ( y\_0 + y\_n ) + 2 ( y\_1 + y\_2 + ... + y\_(n-1) ) ] , '](../dictionary/equation_images/1717.1..png)
-where x~i~ divide [a,b] into n pieces of width h=(b-a)/n, with x~0~=a
-and x~n~=b, and y~i~=y(x~i~).
+A rule for approximate numerical integration: $$\int _a ^b y dx \approx
+\frac{1}{2} h [ ( y_0 + y_n ) + 2 ( y_1 + y_2 + \ldots + y_{n-1} ) ] ,$$
+where $x_{i}$ divide [a,b] into n pieces of width h=(b-a)/n, with
+$x_{0}=a and x_{n}=b, and y_{i}=y(x_{i}).$

@@ -5,4 +5,5 @@ has both speed and direction.
 Sometimes it is helpful to think of a vector as a directed line segment.
 
 At a higher level we define a vector as a member of a set of objects
-which obeys the rules of vector algebra - ie a member of a vector space.
+which obeys the rules of vector algebra - i.e. a member of a vector
+space.

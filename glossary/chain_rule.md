@@ -1,3 +1,2 @@
-\\
-![' (df(g(x) ))/(dx) =    (df(g(x) ))/(dg) . (dg(x)
-)/(dx) '](../dictionary/equation_images/2410.1..png)
+$$\frac{\mathrm{df(g(x))}}{\mathrm{dx}} =  
+\frac{\mathrm{df(g(x))}}{\mathrm{dg}} \cdot \frac{\mathrm{dg(x)}}{\mathrm{dx}}$$

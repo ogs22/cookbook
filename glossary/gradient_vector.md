@@ -1,14 +1,10 @@
 The vector with x and y components
-!['   (d(partial) f)/(d(partial)   x)  '](../dictionary/equation_images/3460.1..png)
-and
-!['   (d(partial) f)/(d(partial) y) .  '](../dictionary/equation_images/3460.2..png)
+$ \frac {\partial \mathrm{f}}{\partial 
+\mathrm{x}} $ and $ \frac {\partial \mathrm{f}}{\partial \mathrm{y}} . $
 
-This is often written grad(f) or
-!['  //nabla f .  '](../dictionary/equation_images/3460.3..png)
+This is often written grad(f) or $ \nabla \mathrm{f} . $
 
 The rate of change of f at (x,y) as we move in direction (u,v) is given
-by
-!['  //nabla f(x,y) . (u,v) .  '](../dictionary/equation_images/3460.4..png)
+by $ \nabla \mathrm{f(x,y)} \cdot \mathrm{(u,v)} . $
 
-!['  //nabla f  '](../dictionary/equation_images/3460.5..png) is normal
-to surfaces on which f is constant.
+$ \nabla \mathrm{f} $ is normal to surfaces on which f is constant.

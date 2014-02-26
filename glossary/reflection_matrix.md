@@ -1,4 +1,7 @@
-The matrix which performs a reflection in the line
-!['  y = x //tan //theta  '](../dictionary/equation_images/1972.2..png)
-is: \\
-!['  (  ( //cos 2 //theta   //sin 2 //theta   //////// //sin 2 //theta   - //cos 2 //theta )  ) . '](../dictionary/equation_images/1972.1..png)
+The matrix which performs a reflection in the line $ y = x \tan \theta $
+is: $$\left ( 
+\begin{array}{cc} 
+  \cos 2 \theta & \sin 2 \theta \\ 
+  \sin 2 \theta & - \cos 2 \theta 
+\end{array} 
+\right ) .$$

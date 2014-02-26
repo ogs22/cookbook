@@ -1,1 +1,1 @@
-A prefix meaning 10^21^.
+A prefix meaning $10^{21}.$

@@ -1,3 +1,2 @@
-a×b=-b×a.
-
-a×(b+c)=(a×b)+(a×c).
+$a \times b = -b \times a.$
+$a \times (b+c) = (a \times b)+(a \times c).$

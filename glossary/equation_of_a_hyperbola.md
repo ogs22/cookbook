@@ -1,4 +1,3 @@
-The hyperbola with asymptotes
-!['   (x)/(a) = (+/-) (y)/(b)  '](../dictionary/equation_images/1658.1..png)
-and cutting the x-axis has equation
-!['  (x\^2)/(a\^2) - (y\^2)/(b\^2) = 1 .  '](../dictionary/equation_images/1658.2..png)
+The hyperbola with asymptotes $  \frac{x}{a} = \pm \frac{y}{b} $ and
+cutting the x-axis has equation
+$ \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1 . $

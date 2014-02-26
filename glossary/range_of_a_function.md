@@ -1,4 +1,4 @@
-The set of possible values in which a function's output can be.
+The set of possible values in which a function’s output can be.
 
 If every single member of the range is a possible value of the function,
 then the function is called surjective. This is not always the case; it

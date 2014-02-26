@@ -1,1 +1,1 @@
-To work out a numerical answer.
+To work out the answer to something, using numbers.

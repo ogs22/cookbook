@@ -1,7 +1,6 @@
 A continued fraction is a fraction of the form:
-![' a)/b + c)/d +   e)/f+ g)/h+ ...) ))
-) '](../dictionary/equation_images/2294.1..png)
+$$\frac{\mathrm{a}}{\mathrm{b} + \frac{\mathrm{c}}{\mathrm{d} +
+ \frac{\mathrm{e}}{\mathrm{f}+ \frac{\mathrm{g}}{\mathrm{h}+ ...}}}}$$
 Sometimes numbers can be written as continued fractions in quite simple
 ways, eg:
-!['  the square root of (5)= 2 + (1)/(4 + (1)/(4 + (1)/(4 + ...)
-)) '](../dictionary/equation_images/2294.2..png)
+$$\sqrt{5}= 2 + \frac{1}{4 + \frac{1}{4 + \frac{1}{4 + ...}}}$$

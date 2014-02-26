@@ -1,3 +1,2 @@
-The function which is written cosh(x) and defined by: \\
-![' cosh(x) = (1)/(2)   ( e\^(x) + e\^(- x) ) . '](../dictionary/equation_images/3749.1..png)
-x= cosh(x)=
+The function which is written $\mathrm{cosh}(x)$ and defined by:
+$$\mathrm{cosh}(x) = \frac{e^x + e^{-x}}{2}.$$

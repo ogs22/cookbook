@@ -1,8 +1,8 @@
-If E~1~ and E~2~ are disjoint,
-!['  p(E\_1 u E\_2 ) = p(E\_1 ) + p(E\_2 )  '](../dictionary/equation_images/3404.1..png)
+If $E_{1} and E_{2}$ are disjoint,
+$ \mathrm{p(E}_1 \cup \mathrm{E}_2 ) = \mathrm{p(E}_1 ) + \mathrm{p(E}_2 ) $
 because
-!['  p(E\_1 n E\_2 ) = p( Ø ) = 0.  '](../dictionary/equation_images/3404.2..png)
+$ \mathrm{p(E}_1 \cap \mathrm{E}_2 ) = \mathrm{p(} \emptyset ) = 0. $
 
-Similarly if E~1~, E~2~ ... E~n~ are disjoint (ie each pair of them is
-disjoint) and together they contain every point in S, then
-p(E~1~)+p(E~2~)+...+p(E~n~) = 1.
+Similarly if $E_{1}, E_{2} ... E_{n}$ are disjoint (ie each pair of them
+is disjoint) and together they contain every point in S, then
+$p(E_{1})+p(E_{2})+...+p(E_{n})$ = 1.

@@ -1,9 +1,5 @@
-For a distribution X, a moment generating function is \\
+For a distribution X, a moment generating function is
+$$M_X ( \theta ) = E ( e^{ \theta X } ) .$$
 
-![' M\_X ( //theta ) = E ( e\^( //theta X ) ) . '](../dictionary/equation_images/1812.1..png)
-
-This means that M(0)=1,
-!['  M\^(//prime ) (0) = E(X) ,  '](../dictionary/equation_images/1812.2..png)
-!['  M\^( (n)
-) (0) = E(X\^n ) ,  '](../dictionary/equation_images/1812.3..png) which
-can be used to find the variance.
+This means that M(0)=1, $ M^{\prime } (0) = E(X) , $
+$ M^{(n)} (0) = E(X^n ) , $ which can be used to find the variance.

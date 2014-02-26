@@ -1,3 +1,2 @@
-\\
-![' (d)/(dx) arccosec(x)  = (-1)/( x  the square root of (x\^2 - 1 )
-) . '](../dictionary/equation_images/3873.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{arccosec}(x)
+= \frac{-1}{ x \sqrt{x^2 - 1 }} .$$

@@ -6,4 +6,4 @@ has been flipped over.
 When an object is placed a certain distance in front of a mirror, its
 image in the mirror appears the same distance away from edge of the
 mirror. Likewise, all the points on a shape and all the points on its
-image are same distance away from the 'mirror line'.
+image are same distance away from the ’mirror line’.

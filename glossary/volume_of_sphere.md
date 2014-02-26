@@ -1,2 +1,1 @@
-A sphere with radius r has volume
-!['  (4)/(3) //pi r\^3 .  '](../dictionary/equation_images/4078.1..png)
+A sphere with radius r has volume $ \frac{4}{3} \pi \mathrm{r}^3 . $

@@ -7,14 +7,10 @@ Fibonacci sequence is:
 (They were studied by Lamé before Fibonacci, but the later name of
 Fibonacci numbers is more often used.)
 
-The n^th^ Fibonacci number is given by \\
-
-![' F\_n = ( (1 +  the square root of (5) ) \^n - ( 1 -  the square root of (5) ) \^n )/ ( 2\^n  the square root of (5) ) , '](../dictionary/equation_images/1850.1..png)
-
-or F~n~ is the nearest integer to \\
-
-![' (1)/( the square root of (5)
-)  ( (1 +  the square root of (5) )/ (2)  ) . '](../dictionary/equation_images/1850.2..png)
+The $n^{th}$ Fibonacci number is given by
+$$F_n = \frac{ (1 + \sqrt{5} ) ^n - ( 1 - \sqrt{5} ) ^n } { 2^n \sqrt{5} } ,$$
+or $F_{n}$ is the nearest integer to
+$$\frac{1}{\sqrt{5}} \left ( \frac{1 + \sqrt{5} } {2} \right ) .$$
 
 The only triangular Fibonacci numbers are 0, 1, 3, 21, 55.
 

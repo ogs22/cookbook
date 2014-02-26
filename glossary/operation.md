@@ -6,9 +6,12 @@ these operations to produce a third number.
 
 Using the numbers 8 and 2:
 
-multiplying them produces 16;\
- dividing them produces 4(or a quarter);\
- adding them produces 10;\
- while subtracting them produces 6 (or -6, negative six).
+multiplying them produces 16;
+
+dividing them produces 4(or a quarter);
+
+adding them produces 10;
+
+while subtracting them produces 6 (or -6, negative six).
 
 The order of doing operations on numbers is very important.

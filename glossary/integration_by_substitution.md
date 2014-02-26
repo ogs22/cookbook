@@ -1,49 +1,27 @@
 Also called integration by change of variable, integration on
-substitution relies on the identity \\
-
-!['  the integral of  f\^( //prime ) (g(x)
-) g \^( //prime ) (x) dx = f(g(x)
-) + c . '](../dictionary/equation_images/2734.1..png)
+substitution relies on the identity
+$$\int f^{ \prime } (g(x)) g ^{ \prime } (x) dx = f(g(x)) + c .$$
 
 Sometimes difficult integrals can be made easier by a carefully-chosen
-substitution. For instance: \\
+substitution. For instance:
+$$\mathrm{I} = \int_0^1 \frac{1}{\sqrt{1- \mathrm{x}^2}} \mathrm{dx}$$
+Let x = sin u, so that
+$$\frac{\mathrm{dx}}{\mathrm{du}} = \mathrm{cos   (u)}$$
 
-![' I =  the integral of \_0\^1 (1)/( the square root of (1- x\^2)
-) dx '](../dictionary/equation_images/2734.2..png)
+Then,
+$$\mathrm{x}^2 + \left ( \frac {\mathrm{dx}}{\mathrm{du}} \right ) ^2
+= \mathrm{sin}^2 \mathrm{u} + \mathrm{cos}^2 \mathrm{u} = 1$$
 
-Let x = sin u, so that \\
+So,
+$$1- \mathrm{x}^2 = 1 - \mathrm{sin}^2 \mathrm{u} = \mathrm{cos}^2 \mathrm{u}$$
 
-![' (dx)/(du) = cos   (u) '](../dictionary/equation_images/2734.3..png)
+So,
+$$\mathrm{I} = \int_{\mathrm{x}=0}^{\mathrm{x}=1} \frac{1}{\sqrt{\mathrm{cos}^2 \mathrm{u}}} (\mathrm{cos   (u)} ) \mathrm{du}$$
 
-\
- Then, \\
+$$= \int_{\mathrm{x}=0}^{\mathrm{x}=1} \mathrm{du}$$
 
-![' x\^2 +  (  (dx)/(du)  ) \^2  = sin\^2 u + cos\^2 u = 1 '](../dictionary/equation_images/2734.4..png)
+And when x=0, u=0; when x=1, u=$ \pi $
 
-\
- So, \\
+So, $$\mathrm{I} = \int _{\mathrm{u}=0}^{\mathrm{u}= \pi} \mathrm{du}$$
 
-![' 1- x\^2 = 1 - sin\^2 u = cos\^2 u '](../dictionary/equation_images/2734.5..png)
-
-\
- So, \\
-
-![' I =  the integral of \_(x=0)\^(x=1) (1)/( the square root of (cos\^2 u)
-) (cos   (u) ) du '](../dictionary/equation_images/2734.6..png)
-
-\
- \\
-
-![' =  the integral of \_(x=0)\^(x=1) du '](../dictionary/equation_images/2734.7..png)
-
-\
- And when x=0, u=0; when x=1, u=
-!['  //pi  '](../dictionary/equation_images/2734.10..png)\
- So, \\
-
-![' I =  the integral of  \_(u=0)\^(u= //pi) du '](../dictionary/equation_images/2734.8..png)
-
-\
- \\
-
-![' = //pi '](../dictionary/equation_images/2734.9..png)
+$$= \pi$$

@@ -1,3 +1,2 @@
-\\
-!['  the integral of  coth(x) //thinsp dx   = - ln(sinh(x)
-)+C . '](../dictionary/equation_images/3921.1..png)
+$$\int \mathrm{coth(x)} \, \mathrm{dx} 
+= - \mathrm{ln(sinh(x))+C} .$$

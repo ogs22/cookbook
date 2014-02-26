@@ -4,4 +4,4 @@ continuous quantities are height and time. Examples of discrete
 quantities are shoe size, number of eggs.
 
 A function of x is continuous if a small change in x only causes a small
-change in the function's value, not a sudden jump.
+change in the function’s value, not a sudden jump.

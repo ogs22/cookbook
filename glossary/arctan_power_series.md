@@ -1,4 +1,8 @@
-For any x with |x|\<1, \\
-![' arctan(x)  = x  - (x\^3)/(3)  + (x\^5)/(5)  - ...  + (
-(-1)\^(n) x\^(2n+1)
-)/  ( 2n+1)   + ... '](../dictionary/equation_images/3889.1..png)
+For any $x$ with $|x|<1$, $$\mathrm{arctan}(x)
+= x
+- \frac{x^3}{3}
++ \frac{x^5}{5}
+- ...
++ \frac{(-1)^{n} x^{2n+1}}
+{ 2n+1} 
++ ...$$

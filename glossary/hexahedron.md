@@ -1,1 +1,1 @@
-A solid with six faces. A regular hexahedron is a cube.
+A solid with six quadrilateral faces. A regular hexahedron is a cube.

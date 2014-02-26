@@ -4,4 +4,4 @@ and added.
 
 Eg, x+y = 5 is linear ,
 
-but x^2^+y = 1 is not.
+but $x^{2}+y$ = 1 is not.

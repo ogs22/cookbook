@@ -1,2 +1,4 @@
-The vector triple product of vectors A, B and C is A × (B × C). It is a
-vector. It is equal to (A.C)B - (A.B)C.
+The vector triple product of vectors $\mathbf{A}$, $\mathbf{B}$ and
+$\mathbf{C}$ is $\mathbf{A} \times (\mathbf{B} \times \mathbf{C})$. It
+is a vector. It is equal to $(\mathbf{A}.\mathbf{C})\mathbf{B} -
+(\mathbf{A}.\mathbf{B})\mathbf{C}$.

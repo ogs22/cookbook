@@ -1,18 +1,12 @@
-For a first order differential equation
-!['  (dy)/(dx) + Py = Q ,  '](../dictionary/equation_images/2078.1..png)
+For a first order differential equation $ \frac{dy}{dx} + Py = Q , $
 where P and Q are functions of x, an integrating factor is
-!['  R = e \^( the integral of  P dx ) .  '](../dictionary/equation_images/2078.2..png)
-Note that
-!['  (dR)/(dx) = RP ,  '](../dictionary/equation_images/2078.3..png) so
-!['  (d)/(dx)(Ry) =  R (dy)/(dx) +RPy .  '](../dictionary/equation_images/2078.4..png)
+$ R = e ^{\int P dx } . $ Note that $ \frac{dR}{dx} = RP , $ so
+$ \frac{d}{dx}(Ry) =  R \frac{dy}{dx} +RPy . $
 
 So if we multiply the original equation by R, we have
 
-!['  R (dy)/(dx) + RPy = RQ ,  '](../dictionary/equation_images/2078.5..png)
+$ R \frac{dy}{dx} + RPy = RQ , $
 
-so,
-!['  (d)/(dx) (Ry) = RQ,  '](../dictionary/equation_images/2078.6..png)
+so, $ \frac{d}{dx} (Ry) = RQ, $
 
-so,
-!['  Ry =  the integral of  RQ dx ,  '](../dictionary/equation_images/2078.7..png)
-which gives us solutions.
+so, $ Ry = \int RQ dx , $ which gives us solutions.

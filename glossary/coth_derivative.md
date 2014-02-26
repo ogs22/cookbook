@@ -1,2 +1,2 @@
-\\
-![' (d)/(dx) coth(x)  = - cosech \^2 ( x ) . '](../dictionary/equation_images/3904.1..png)
+$$\frac{\mathrm{d}}{\mathrm{dx}} \mathrm{coth(x)}
+= - \mathrm{cosech} ^2 ( \mathrm{x} ) .$$

@@ -1,19 +1,26 @@
 Given a bounded measurable function f(x) over a set E with finite
-measure, the Lebesgue integral can be defined:
+measure,
 
-Let U and L be the upper and lower bounds of f(x) for x in E; let
-t~0~...t~n~ be a dissection of [L, U],
-!['  L=t\_0 \< t\_1 \< ... \< t\_n = U .  '](../dictionary/equation_images/1378.1..png)
-Now let e~i~ be the subset of E for which
-!['  t\_(i-1) \<= f(x) \<= t\_i .  '](../dictionary/equation_images/1378.2..png)
+the Lebesgue integral can be defined:
 
-Let the Lebesgue measure of e~i~ be m(e~i~). Then the Lebesgue integral
-of f(x) over E is defined as either of
-!['   the sum of  \_(i=1) \^(n) t\_(i-1)m(e\_i)  '](../dictionary/equation_images/1378.3..png)
-or
-!['   the sum of  \_(i=1) \^n    t\_i m(e\_i)  '](../dictionary/equation_images/1378.4..png)
-as
-!['  (max) ( t\_i - t\_(i-1) )  --\>  0 .  '](../dictionary/equation_images/1378.5..png)
+Let U and L be the upper and lower bounds of f(x) for x in E;
 
-A function that is Riemann integrable is necessarily Lebesgue
-integrable.
+let $t_{0}...t_{n}$ be a dissection of [L, U],
+
+$ L=t_0 \lt t_1 \lt \ldots \lt t_n = U . $
+
+Now let $e_{i}$ be the subset of E for which
+
+$ t_{i-1} \leq f(x) \leq t_i . $
+
+Let the Lebesgue measure of $e_{i} be m(e_{i}).$
+
+Then the Lebesgue integral of f(x) over E is defined as either of
+
+$ \sum _{i=1} ^{n} t_{i-1}m(e_i) $ or $ \sum _{i=1} ^n
+
+t_i m(e_i) $ as $ \text{max} ( t_i - t_{i-1} ) \to 0 . $
+
+A function that is Riemann integrable is necessarily
+
+Lebesgue integrable.

@@ -1,32 +1,37 @@
-This is the method for solving any quadratic equation:
+This is the method for solving any quadratic equation.
 
-Say we have
-!['  ax\^2 + bx + c = 0.  '](../dictionary/equation_images/1990.1..png)\
- Then divide by a to get:
-!['  x\^2 + (bx)/(a)   + (c)/(a) = 0.  '](../dictionary/equation_images/1990.2..png)\
- Then notice that
-!['  ( x + (b)/(2 a) )\^2   = x\^2 + (bx)/(a) + (b\^2)/(4 a\^2)  '](../dictionary/equation_images/1990.3..png)\
- so:
-!['  ( x + (b)/(2 a) )\^2   - (b\^2)/(4 a\^2) + (c)/(a) = 0,  '](../dictionary/equation_images/1990.4..png)\
+Say we have $ \mathrm{ax}^2 + \mathrm{bx + c} = 0. $
 
-!['  ( x + (b)/(2 a) )\^2   = (b\^2)/(4 a\^2)   - (c)/(a).  '](../dictionary/equation_images/1990.5..png)
+Then divide by a to get:
+$ \mathrm{x}^2 + \frac{\mathrm{bx}}{\mathrm{a}} 
++ \frac{\mathrm{c}}{\mathrm{a}} = 0. $
 
-So,
-!['  x = ( - b (+/-)  the square root of  ( b\^2 - 4 ac) )/  (2 a).  '](../dictionary/equation_images/1990.6..png)
+Then notice that $ ( \mathrm{x} + \frac{\mathrm{b}}{2 \mathrm{a}} )^2 
+= \mathrm{x}^2 + \frac{\mathrm{bx}}{\mathrm{a}} + \frac{\mathrm{b}^2}{4 \mathrm{a}^2} $
 
-For example, suppose we have 3x^2^+2x-1=0.
+so: $ ( \mathrm{x} + \frac{\mathrm{b}}{2 \mathrm{a}} )^2 
+- \frac{\mathrm{b}^2}{4 \mathrm{a}^2} + \frac{\mathrm{c}}{\mathrm{a}} = 0, $
 
-Then we divide by 3 to get: x^2^+(2/3)x-(1/3)=0.
-
-Then notice that (x+(1/3))^2^=x^2^+(2/3)x+(1/9)
-
-so: (x+(1/3))^2^-(1/9)-(1/3)=0,
-
-(x+(1/3))^2^=(1/9)+(1/3)=4/9.
+$ ( \mathrm{x} + \frac{\mathrm{b}}{2 \mathrm{a}} )^2 
+= \frac{\mathrm{b}^2}{4 \mathrm{a}^2} 
+- \frac{\mathrm{c}}{\mathrm{a}}. $
 
 So,
-!['  x+(1/3)= (+/-) 2/3  '](../dictionary/equation_images/1990.7..png)
+$ \mathrm{x} = \frac{ - \mathrm{b} \pm \sqrt { \mathrm{b}^2 - 4 \mathrm{ac}} }
+{2 \mathrm{a}}. $
 
-!['  x = -1/3 (+/-) 2/3  '](../dictionary/equation_images/1990.8..png)
+For example, suppose we have $3x^{2}+2x-1=0.$
+
+Then we divide by 3 to get: $x^{2}+(2/3)x-(1/3)=0.$
+
+Then notice that $(x+(1/3))^{2}=x^{2}+(2/3)x+(1/9)$
+
+so: $(x+(1/3))^{2}-(1/9)-(1/3)=0,$
+
+$(x+(1/3))^{2}=(1/9)+(1/3)=4/9.$
+
+So, $ \mathrm{x}+(1/3)= \pm 2/3 $
+
+$ \mathrm{x} = -1/3 \pm 2/3 $
 
 x=-1 or x=1/3.
