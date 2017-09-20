@@ -1,4 +1,4 @@
 cookbook
 ========
 
-A bunch of files for doing various disconnected jobs
+exported data from the old thesaurus project and code to extract from mysql db
